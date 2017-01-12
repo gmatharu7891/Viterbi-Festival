@@ -1,0 +1,13 @@
+
+((lisp_cg_position_in_phrase < 0.502768)
+ ((R:mcep_link.parent.R:segstate.parent.seg_onsetcoda is coda)
+  ((28.1028 127.743))
+  ((lisp_cg_position_in_phrase < 0.253505)
+   ((21.9785 143.961))
+   ((18.7306 133.523))))
+ ((R:mcep_link.parent.R:segstate.parent.R:SylStructure.parent.R:Syllable.p.stress < 0.1)
+  ((26.4723 122.536))
+  ((R:mcep_link.parent.R:segstate.parent.R:SylStructure.parent.parent.R:Word.n.gpos is content)
+   ((18.0659 119.37))
+   ((16.3762 107.728)))))
+;; RMSE 21.7945 Correlation is 0.4789 Mean (abs) Error 16.1758 (14.6117)

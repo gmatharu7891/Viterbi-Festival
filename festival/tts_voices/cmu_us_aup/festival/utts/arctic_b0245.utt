@@ -1,0 +1,214 @@
+EST_File utterance
+DataType ascii
+version 2
+EST_Header_End
+Features max_id 84 ; type Text ; iform "\"Harrison is still my chauffeur.\"" ; filename prompt-utt/arctic_b0245.utt ; fileid arctic_b0245 ; 
+Stream_Items
+1 id _1 ; name Harrison ; whitespace "" ; prepunctuation "" ; 
+2 id _2 ; name is ; whitespace " " ; prepunctuation "" ; 
+3 id _3 ; name still ; whitespace " " ; prepunctuation "" ; 
+4 id _4 ; name my ; whitespace " " ; prepunctuation "" ; 
+5 id _5 ; name chauffeur ; punc . ; whitespace " " ; prepunctuation "" ; 
+6 id _10 ; name chauffeur ; pos_index 8 ; pos_index_score 0 ; pos nn ; phr_pos n ; phrase_score -0.687334 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak BB ; 
+7 id _11 ; name . ; pos_index 13 ; pos_index_score 0 ; pos punc ; phr_pos punc ; pbreak_index 0 ; pbreak_index_score 0 ; pbreak BB ; 
+8 id _9 ; name my ; pos_index 12 ; pos_index_score 0 ; pos prp ; phr_pos prp ; phrase_score -7.65017 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+9 id _8 ; name still ; pos_index 14 ; pos_index_score 0 ; pos rb ; phr_pos r ; phrase_score -7.65017 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+10 id _7 ; name is ; pos_index 17 ; pos_index_score 0 ; pos vbz ; phr_pos v ; phrase_score -5.19343 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+11 id _6 ; name Harrison ; pos_index 8 ; pos_index_score 0 ; pos nnp ; phr_pos n ; phrase_score -5.64644 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+12 id _13 ; name syl ; stress 1 ; 
+13 id _16 ; name syl ; stress 0 ; 
+14 id _19 ; name syl ; stress 0 ; 
+15 id _23 ; name syl ; stress 1 ; 
+16 id _26 ; name syl ; stress 1 ; 
+17 id _31 ; name syl ; stress 1 ; 
+18 id _34 ; name syl ; stress 0 ; 
+19 id _37 ; name syl ; stress 1 ; 
+20 id _40 ; name pau ; dur_factor 0 ; end 0.23 ; 
+21 id _14 ; name hh ; dur_factor 0.326954 ; end 0.285 ; 
+22 id _15 ; name eh ; dur_factor -0.276407 ; end 0.305 ; 
+23 id _17 ; name r ; dur_factor 0.499383 ; end 0.46 ; 
+24 id _18 ; name ih ; dur_factor -0.466418 ; end 0.48 ; 
+25 id _20 ; name s ; dur_factor -0.042049 ; end 0.6 ; 
+26 id _21 ; name ax ; dur_factor -0.62319 ; end 0.635 ; 
+27 id _22 ; name n ; dur_factor -0.40092 ; end 0.705 ; 
+28 id _24 ; name ih ; dur_factor 0.134075 ; end 0.755 ; 
+29 id _25 ; name z ; dur_factor -0.536405 ; end 0.785 ; 
+30 id _27 ; name s ; dur_factor -0.599624 ; end 0.905 ; 
+31 id _28 ; name t ; dur_factor -0.516332 ; end 0.945 ; 
+32 id _29 ; name ih ; dur_factor -0.240338 ; end 0.975 ; 
+33 id _30 ; name l ; dur_factor -0.666011 ; end 1.035 ; 
+34 id _32 ; name m ; dur_factor 0.504252 ; end 1.105 ; 
+35 id _33 ; name ay ; dur_factor 0.657169 ; end 1.195 ; 
+36 id _35 ; name sh ; dur_factor 0.764189 ; end 1.31 ; 
+37 id _36 ; name ow ; dur_factor -0.542809 ; end 1.4 ; 
+38 id _38 ; name f ; dur_factor 0.636568 ; end 1.515 ; 
+39 id _39 ; name er ; dur_factor 0.7486 ; end 1.745 ; 
+40 id _41 ; name pau ; dur_factor 2 ; end 2.91 ; 
+41 id _42 ; name L-L% ; 
+42 id _43 ; name H* ; 
+43 id _44 ; name H* ; 
+44 id _60 ; f0 93.1368 ; pos 1.67219 ; 
+45 id _61 ; f0 90.1324 ; pos 1.71893 ; 
+46 id _59 ; f0 98.8273 ; pos 1.50944 ; 
+47 id _58 ; f0 101.002 ; pos 1.45302 ; 
+48 id _57 ; f0 108.699 ; pos 1.26492 ; 
+49 id _56 ; f0 113.223 ; pos 1.18097 ; 
+50 id _55 ; f0 104.246 ; pos 1.01391 ; 
+51 id _54 ; f0 103.286 ; pos 0.938991 ; 
+52 id _53 ; f0 102.57 ; pos 0.773268 ; 
+53 id _51 ; f0 106.61 ; pos 0.651422 ; 
+54 id _52 ; f0 105.068 ; pos 0.681964 ; 
+55 id _50 ; f0 110.276 ; pos 0.586923 ; 
+56 id _49 ; f0 111.166 ; pos 0.470957 ; 
+57 id _48 ; f0 115.2 ; pos 0.447321 ; 
+58 id _47 ; f0 117.786 ; pos 0.355204 ; 
+59 id _46 ; f0 120.98 ; pos 0.312679 ; 
+60 id _45 ; f0 104.051 ; pos 0.2 ; 
+61 id _84 ; name BB ; 
+End_of_Stream_Items
+Relations
+Relation Token ; "(" ")" ; 
+6 11 1 0 0 0
+1 1 0 6 2 0
+7 10 2 0 0 0
+2 2 0 7 3 1
+8 9 3 0 0 0
+3 3 0 8 4 2
+9 8 4 0 0 0
+4 4 0 9 5 3
+10 6 5 0 11 0
+11 7 0 0 0 10
+5 5 0 10 0 4
+End_of_Relation
+Relation Word ; "(" ")" ; 
+1 11 0 0 2 0
+2 10 0 0 3 1
+3 9 0 0 4 2
+4 8 0 0 5 3
+5 6 0 0 0 4
+End_of_Relation
+Relation Syllable ; "(" ")" ; 
+1 12 0 0 2 0
+2 13 0 0 3 1
+3 14 0 0 4 2
+4 15 0 0 5 3
+5 16 0 0 6 4
+6 17 0 0 7 5
+7 18 0 0 8 6
+8 19 0 0 0 7
+End_of_Relation
+Relation Segment ; "(" ")" ; 
+1 20 0 0 2 0
+2 21 0 0 3 1
+3 22 0 0 4 2
+4 23 0 0 5 3
+5 24 0 0 6 4
+6 25 0 0 7 5
+7 26 0 0 8 6
+8 27 0 0 9 7
+9 28 0 0 10 8
+10 29 0 0 11 9
+11 30 0 0 12 10
+12 31 0 0 13 11
+13 32 0 0 14 12
+14 33 0 0 15 13
+15 34 0 0 16 14
+16 35 0 0 17 15
+17 36 0 0 18 16
+18 37 0 0 19 17
+19 38 0 0 20 18
+20 39 0 0 21 19
+21 40 0 0 0 20
+End_of_Relation
+Relation SylStructure ; "(" ")" ; 
+10 21 7 0 11 0
+11 22 0 0 0 10
+7 12 1 10 8 0
+12 23 8 0 13 0
+13 24 0 0 0 12
+8 13 0 12 9 7
+14 25 9 0 15 0
+15 26 0 0 16 14
+16 27 0 0 0 15
+9 14 0 14 0 8
+1 11 0 7 2 0
+18 28 17 0 19 0
+19 29 0 0 0 18
+17 15 2 18 0 0
+2 10 0 17 3 1
+21 30 20 0 22 0
+22 31 0 0 23 21
+23 32 0 0 24 22
+24 33 0 0 0 23
+20 16 3 21 0 0
+3 9 0 20 4 2
+26 34 25 0 27 0
+27 35 0 0 0 26
+25 17 4 26 0 0
+4 8 0 25 5 3
+30 36 28 0 31 0
+31 37 0 0 0 30
+28 18 5 30 29 0
+32 38 29 0 33 0
+33 39 0 0 0 32
+29 19 0 32 0 28
+5 6 0 28 6 4
+6 7 0 0 0 5
+End_of_Relation
+Relation IntEvent ; "(" ")" ; 
+1 41 0 0 2 0
+2 42 0 0 3 1
+3 43 0 0 0 2
+End_of_Relation
+Relation Intonation ; "(" ")" ; 
+4 41 1 0 0 0
+1 19 0 4 2 0
+5 42 2 0 0 0
+2 12 0 5 3 1
+6 43 3 0 0 0
+3 17 0 6 0 2
+End_of_Relation
+Relation Target ; "(" ")" ; 
+16 60 1 0 0 0
+1 21 0 16 2 0
+17 59 2 0 0 0
+2 22 0 17 3 1
+18 58 3 0 0 0
+3 23 0 18 4 2
+19 57 4 0 0 0
+4 24 0 19 5 3
+20 56 5 0 0 0
+5 25 0 20 6 4
+21 55 6 0 0 0
+6 26 0 21 7 5
+22 53 7 0 23 0
+23 54 0 0 0 22
+7 28 0 22 8 6
+24 52 8 0 0 0
+8 30 0 24 9 7
+25 51 9 0 0 0
+9 32 0 25 10 8
+26 50 10 0 0 0
+10 34 0 26 11 9
+27 49 11 0 0 0
+11 35 0 27 12 10
+28 48 12 0 0 0
+12 36 0 28 13 11
+29 47 13 0 0 0
+13 37 0 29 14 12
+30 46 14 0 0 0
+14 38 0 30 15 13
+31 44 15 0 32 0
+32 45 0 0 0 31
+15 39 0 31 0 14
+End_of_Relation
+Relation Phrase ; ()
+2 11 1 0 3 0
+3 10 0 0 4 2
+4 9 0 0 5 3
+5 8 0 0 6 4
+6 6 0 0 0 5
+1 61 0 2 0 0
+End_of_Relation
+End_of_Relations
+End_of_Utterance

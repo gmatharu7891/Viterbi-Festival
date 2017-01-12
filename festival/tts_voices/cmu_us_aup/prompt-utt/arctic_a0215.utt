@@ -1,0 +1,170 @@
+EST_File utterance
+DataType ascii
+version 2
+EST_Header_End
+Features max_id 46 ; type Text ; iform "\"They die out of spite.\"" ; 
+Stream_Items
+1 id _1 ; name They ; whitespace "" ; prepunctuation "" ; 
+2 id _2 ; name die ; whitespace " " ; prepunctuation "" ; 
+3 id _3 ; name out ; whitespace " " ; prepunctuation "" ; 
+4 id _4 ; name of ; whitespace " " ; prepunctuation "" ; 
+5 id _5 ; name spite ; punc . ; whitespace " " ; prepunctuation "" ; 
+6 id _10 ; name spite ; pos_index 8 ; pos_index_score 0 ; pos nn ; phr_pos n ; phrase_score -0.688044 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak BB ; 
+7 id _11 ; name . ; pos_index 13 ; pos_index_score 0 ; pos punc ; phr_pos punc ; pbreak_index 0 ; pbreak_index_score 0 ; pbreak BB ; 
+8 id _9 ; name of ; pos_index 9 ; pos_index_score 0 ; pos of ; phr_pos of ; phrase_score -8.52564 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+9 id _8 ; name out ; pos_index 5 ; pos_index_score 0 ; pos in ; phr_pos in ; phrase_score -8.52564 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+10 id _7 ; name die ; pos_index 17 ; pos_index_score 0 ; pos vbp ; phr_pos v ; phrase_score -5.76563 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+11 id _6 ; name They ; pos_index 12 ; pos_index_score 0 ; pos prp ; phr_pos prp ; phrase_score -4.09482 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+12 id _12 ; name BB ; 
+13 id _13 ; name syl ; stress 1 ; 
+14 id _16 ; name syl ; stress 1 ; 
+15 id _19 ; name syl ; stress 1 ; 
+16 id _22 ; name syl ; stress 1 ; 
+17 id _25 ; name syl ; stress 1 ; 
+18 id _30 ; name pau ; dur_factor 0 ; end 0.2 ; 
+19 id _14 ; name dh ; dur_factor 0.326954 ; end 0.236231 ; 
+20 id _15 ; name ey ; dur_factor -0.276407 ; end 0.356622 ; 
+21 id _17 ; name d ; dur_factor 0.687498 ; end 0.41906 ; 
+22 id _18 ; name ay ; dur_factor 0.613305 ; end 0.584885 ; 
+23 id _20 ; name aw ; dur_factor -0.0479225 ; end 0.748345 ; 
+24 id _21 ; name t ; dur_factor -0.431535 ; end 0.809714 ; 
+25 id _23 ; name ah ; dur_factor -0.536405 ; end 0.880086 ; 
+26 id _24 ; name v ; dur_factor -0.536405 ; end 0.920894 ; 
+27 id _26 ; name s ; dur_factor -0.111275 ; end 1.01878 ; 
+28 id _27 ; name p ; dur_factor -0.490108 ; end 1.09207 ; 
+29 id _28 ; name ay ; dur_factor 1.51093 ; end 1.30009 ; 
+30 id _29 ; name t ; dur_factor 1.63203 ; end 1.40273 ; 
+31 id _31 ; name pau ; dur_factor 2 ; end 1.81073 ; 
+32 id _32 ; name L-L% ; 
+33 id _33 ; name H* ; 
+34 id _34 ; name H* ; 
+35 id _35 ; name H* ; 
+36 id _46 ; f0 85.6153 ; pos 1.40273 ; 
+37 id _45 ; f0 88.7636 ; pos 1.19608 ; 
+38 id _44 ; f0 97.4323 ; pos 0.920894 ; 
+39 id _42 ; f0 112.991 ; pos 0.809714 ; 
+40 id _43 ; f0 101.506 ; pos 0.8449 ; 
+41 id _40 ; f0 122.187 ; pos 0.584885 ; 
+42 id _41 ; f0 121.854 ; pos 0.666615 ; 
+43 id _39 ; f0 127.956 ; pos 0.501972 ; 
+44 id _38 ; f0 119.794 ; pos 0.356622 ; 
+45 id _37 ; f0 120.426 ; pos 0.296427 ; 
+46 id _36 ; f0 101.151 ; pos 0.2 ; 
+End_of_Stream_Items
+Relations
+Relation Token ; ()
+6 11 1 0 0 0
+1 1 0 6 2 0
+7 10 2 0 0 0
+2 2 0 7 3 1
+8 9 3 0 0 0
+3 3 0 8 4 2
+9 8 4 0 0 0
+4 4 0 9 5 3
+10 6 5 0 11 0
+11 7 0 0 0 10
+5 5 0 10 0 4
+End_of_Relation
+Relation Word ; ()
+1 11 0 0 2 0
+2 10 0 0 3 1
+3 9 0 0 4 2
+4 8 0 0 5 3
+5 6 0 0 0 4
+End_of_Relation
+Relation Phrase ; ()
+2 11 1 0 3 0
+3 10 0 0 4 2
+4 9 0 0 5 3
+5 8 0 0 6 4
+6 6 0 0 0 5
+1 12 0 2 0 0
+End_of_Relation
+Relation Syllable ; ()
+1 13 0 0 2 0
+2 14 0 0 3 1
+3 15 0 0 4 2
+4 16 0 0 5 3
+5 17 0 0 0 4
+End_of_Relation
+Relation Segment ; ()
+1 18 0 0 2 0
+2 19 0 0 3 1
+3 20 0 0 4 2
+4 21 0 0 5 3
+5 22 0 0 6 4
+6 23 0 0 7 5
+7 24 0 0 8 6
+8 25 0 0 9 7
+9 26 0 0 10 8
+10 27 0 0 11 9
+11 28 0 0 12 10
+12 29 0 0 13 11
+13 30 0 0 14 12
+14 31 0 0 0 13
+End_of_Relation
+Relation SylStructure ; ()
+8 19 7 0 9 0
+9 20 0 0 0 8
+7 13 1 8 0 0
+1 11 0 7 2 0
+11 21 10 0 12 0
+12 22 0 0 0 11
+10 14 2 11 0 0
+2 10 0 10 3 1
+14 23 13 0 15 0
+15 24 0 0 0 14
+13 15 3 14 0 0
+3 9 0 13 4 2
+17 25 16 0 18 0
+18 26 0 0 0 17
+16 16 4 17 0 0
+4 8 0 16 5 3
+20 27 19 0 21 0
+21 28 0 0 22 20
+22 29 0 0 23 21
+23 30 0 0 0 22
+19 17 5 20 0 0
+5 6 0 19 6 4
+6 7 0 0 0 5
+End_of_Relation
+Relation IntEvent ; ()
+1 32 0 0 2 0
+2 33 0 0 3 1
+3 34 0 0 4 2
+4 35 0 0 0 3
+End_of_Relation
+Relation Intonation ; ()
+5 32 1 0 0 0
+1 17 0 5 2 0
+6 33 2 0 0 0
+2 13 0 6 3 1
+7 34 3 0 0 0
+3 14 0 7 4 2
+8 35 4 0 0 0
+4 15 0 8 0 3
+End_of_Relation
+Relation Target ; ()
+10 46 1 0 0 0
+1 19 0 10 2 0
+11 45 2 0 0 0
+2 20 0 11 3 1
+12 44 3 0 0 0
+3 21 0 12 4 2
+13 43 4 0 0 0
+4 22 0 13 5 3
+14 41 5 0 15 0
+15 42 0 0 0 14
+5 23 0 14 6 4
+16 39 6 0 17 0
+17 40 0 0 0 16
+6 25 0 16 7 5
+18 38 7 0 0 0
+7 27 0 18 8 6
+19 37 8 0 0 0
+8 29 0 19 9 7
+20 36 9 0 0 0
+9 30 0 20 0 8
+End_of_Relation
+End_of_Relations
+End_of_Utterance

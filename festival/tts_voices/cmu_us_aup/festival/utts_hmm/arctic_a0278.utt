@@ -1,0 +1,2286 @@
+EST_File utterance
+DataType ascii
+version 2
+EST_Header_End
+Features max_id 745 ; type Text ; iform "\"It would give me nervous prostration.\"" ; filename festival/utts/arctic_a0278.utt ; fileid arctic_a0278 ; param_track "[Val track]" ; param_track_num_frames 546 ; 
+Stream_Items
+1 id _1 ; name It ; whitespace "" ; prepunctuation "" ; 
+2 id _2 ; name would ; whitespace " " ; prepunctuation "" ; 
+3 id _3 ; name give ; whitespace " " ; prepunctuation "" ; 
+4 id _4 ; name me ; whitespace " " ; prepunctuation "" ; 
+5 id _5 ; name nervous ; whitespace " " ; prepunctuation "" ; 
+6 id _6 ; name prostration ; punc . ; whitespace " " ; prepunctuation "" ; 
+7 id _12 ; name prostration ; pos_index 8 ; pos_index_score 0 ; pos nn ; phr_pos n ; phrase_score -0.673782 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak BB ; 
+8 id _13 ; name . ; pos_index 13 ; pos_index_score 0 ; pos punc ; phr_pos punc ; pbreak_index 0 ; pbreak_index_score 0 ; pbreak BB ; 
+9 id _11 ; name nervous ; pos_index 6 ; pos_index_score 0 ; pos jj ; phr_pos j ; phrase_score -5.71624 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+10 id _10 ; name me ; pos_index 12 ; pos_index_score 0 ; pos prp ; phr_pos prp ; phrase_score -6.39741 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+11 id _9 ; name give ; pos_index 17 ; pos_index_score 0 ; pos vb ; phr_pos v ; phrase_score -7.30186 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+12 id _8 ; name would ; pos_index 7 ; pos_index_score 0 ; pos md ; phr_pos md ; phrase_score -5.51996 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+13 id _7 ; name It ; pos_index 12 ; pos_index_score 0 ; pos prp ; phr_pos prp ; phrase_score -6.20325 ; pbreak_index 1 ; pbreak_index_score 0 ; pbreak NB ; 
+14 id _15 ; name syl ; stress 1 ; 
+15 id _18 ; name syl ; stress 1 ; 
+16 id _22 ; name syl ; stress 1 ; 
+17 id _26 ; name syl ; stress 1 ; 
+18 id _29 ; name syl ; stress 1 ; 
+19 id _32 ; name syl ; stress 0 ; 
+20 id _36 ; name syl ; stress 0 ; 
+21 id _40 ; name syl ; stress 1 ; 
+22 id _45 ; name syl ; stress 0 ; 
+23 id _49 ; name pau ; dur_factor 0 ; end 0.095 ; fileid arctic_a0278 ; 
+24 id _107 ; name pau ; end 0.16 ; fileid arctic_a0278 ; 
+25 id _108 ; name pau ; end 0.255 ; fileid arctic_a0278 ; 
+26 id _109 ; name pau ; end 0.425 ; fileid arctic_a0278 ; 
+27 id _16 ; name ih ; dur_factor 0.574068 ; end 0.54 ; fileid arctic_a0278 ; 
+28 id _17 ; name t ; dur_factor 0.271734 ; end 0.58 ; fileid arctic_a0278 ; 
+29 id _19 ; name w ; dur_factor -0.57173 ; end 0.675 ; fileid arctic_a0278 ; 
+30 id _20 ; name uh ; dur_factor -0.988478 ; end 0.705 ; fileid arctic_a0278 ; 
+31 id _21 ; name d ; dur_factor -1.08426 ; end 0.755 ; fileid arctic_a0278 ; 
+32 id _23 ; name g ; dur_factor 0.634789 ; end 0.835 ; fileid arctic_a0278 ; 
+33 id _24 ; name ih ; dur_factor 0.888495 ; end 0.925 ; fileid arctic_a0278 ; 
+34 id _25 ; name v ; dur_factor -0.371234 ; end 0.995 ; fileid arctic_a0278 ; 
+35 id _110 ; name pau ; end 1.01 ; fileid arctic_a0278 ; 
+36 id _27 ; name m ; dur_factor -0.334898 ; end 1.035 ; fileid arctic_a0278 ; 
+37 id _28 ; name iy ; dur_factor -0.276816 ; end 1.125 ; fileid arctic_a0278 ; 
+38 id _30 ; name n ; dur_factor 1.29451 ; end 1.21 ; fileid arctic_a0278 ; 
+39 id _31 ; name er ; dur_factor -0.274514 ; end 1.385 ; fileid arctic_a0278 ; 
+40 id _33 ; name v ; dur_factor -0.042049 ; end 1.455 ; fileid arctic_a0278 ; 
+41 id _34 ; name ax ; dur_factor 0.721904 ; end 1.51 ; fileid arctic_a0278 ; 
+42 id _35 ; name s ; dur_factor -0.56941 ; end 1.605 ; fileid arctic_a0278 ; 
+43 id _37 ; name p ; dur_factor -0.12859 ; end 1.84 ; fileid arctic_a0278 ; 
+44 id _38 ; name r ; dur_factor -0.765994 ; end 1.9 ; fileid arctic_a0278 ; 
+45 id _39 ; name aa ; dur_factor -0.557509 ; end 1.925 ; fileid arctic_a0278 ; 
+46 id _41 ; name s ; dur_factor -0.0191273 ; end 2.12 ; fileid arctic_a0278 ; 
+47 id _42 ; name t ; dur_factor -0.216179 ; end 2.225 ; fileid arctic_a0278 ; 
+48 id _43 ; name r ; dur_factor 0.241873 ; end 2.27 ; fileid arctic_a0278 ; 
+49 id _44 ; name ey ; dur_factor 0.0139361 ; end 2.355 ; fileid arctic_a0278 ; 
+50 id _46 ; name sh ; dur_factor 0.636568 ; end 2.54 ; fileid arctic_a0278 ; 
+51 id _47 ; name ax ; dur_factor -0.000859005 ; end 2.575 ; fileid arctic_a0278 ; 
+52 id _48 ; name n ; dur_factor 0.442376 ; end 2.675 ; fileid arctic_a0278 ; 
+53 id _50 ; name pau ; dur_factor 2 ; end 2.73 ; fileid arctic_a0278 ; 
+54 id _51 ; name L-L% ; 
+55 id _52 ; name H* ; 
+56 id _53 ; name H* ; 
+57 id _54 ; name L+H* ; 
+58 id _55 ; name L+H* ; 
+59 id _74 ; f0 90.3685 ; pos 1.95966 ; 
+60 id _73 ; f0 93.1944 ; pos 1.86661 ; 
+61 id _72 ; f0 100.884 ; pos 1.71589 ; 
+62 id _71 ; f0 103.041 ; pos 1.6496 ; 
+63 id _70 ; f0 95.0621 ; pos 1.35584 ; 
+64 id _69 ; f0 93.9156 ; pos 1.31915 ; 
+65 id _68 ; f0 99.0414 ; pos 1.16907 ; 
+66 id _67 ; f0 103.137 ; pos 1.05647 ; 
+67 id _66 ; f0 106.803 ; pos 0.974611 ; 
+68 id _65 ; f0 109.732 ; pos 0.932983 ; 
+69 id _64 ; f0 104.695 ; pos 0.799993 ; 
+70 id _63 ; f0 105.788 ; pos 0.757168 ; 
+71 id _62 ; f0 114.281 ; pos 0.65472 ; 
+72 id _61 ; f0 120.812 ; pos 0.571555 ; 
+73 id _60 ; f0 112.226 ; pos 0.455007 ; 
+74 id _59 ; f0 113.707 ; pos 0.408633 ; 
+75 id _58 ; f0 117.113 ; pos 0.346638 ; 
+76 id _56 ; f0 102.97 ; pos 0.2 ; 
+77 id _57 ; f0 121.078 ; pos 0.235602 ; 
+78 id _111 ; name BB ; 
+79 id _112 ; end 0.01 ; name pau_1 ; 
+80 id _113 ; end 0.095 ; name pau_3 ; 
+81 id _114 ; end 0.105 ; name pau_1 ; 
+82 id _115 ; end 0.16 ; name pau_2 ; 
+83 id _116 ; end 0.18 ; name pau_1 ; 
+84 id _117 ; end 0.255 ; name pau_2 ; 
+85 id _118 ; end 0.41 ; name pau_1 ; 
+86 id _119 ; end 0.425 ; name pau_2 ; 
+87 id _120 ; end 0.435 ; name ih_1 ; 
+88 id _121 ; end 0.535 ; name ih_2 ; 
+89 id _122 ; end 0.54 ; name ih_3 ; 
+90 id _123 ; end 0.56 ; name t_1 ; 
+91 id _124 ; end 0.565 ; name t_2 ; 
+92 id _125 ; end 0.58 ; name t_3 ; 
+93 id _126 ; end 0.61 ; name w_1 ; 
+94 id _127 ; end 0.645 ; name w_2 ; 
+95 id _128 ; end 0.675 ; name w_3 ; 
+96 id _129 ; end 0.69 ; name uh_1 ; 
+97 id _130 ; end 0.695 ; name uh_2 ; 
+98 id _131 ; end 0.705 ; name uh_3 ; 
+99 id _132 ; end 0.73 ; name d_1 ; 
+100 id _133 ; end 0.735 ; name d_2 ; 
+101 id _134 ; end 0.755 ; name d_3 ; 
+102 id _135 ; end 0.76 ; name g_1 ; 
+103 id _136 ; end 0.775 ; name g_2 ; 
+104 id _137 ; end 0.835 ; name g_3 ; 
+105 id _138 ; end 0.845 ; name ih_1 ; 
+106 id _139 ; end 0.915 ; name ih_2 ; 
+107 id _140 ; end 0.925 ; name ih_3 ; 
+108 id _141 ; end 0.93 ; name v_1 ; 
+109 id _142 ; end 0.95 ; name v_2 ; 
+110 id _143 ; end 0.995 ; name v_3 ; 
+111 id _144 ; end 1.01 ; name pau_5 ; 
+112 id _145 ; end 1.025 ; name m_1 ; 
+113 id _146 ; end 1.03 ; name m_2 ; 
+114 id _147 ; end 1.035 ; name m_3 ; 
+115 id _148 ; end 1.055 ; name iy_1 ; 
+116 id _149 ; end 1.12 ; name iy_2 ; 
+117 id _150 ; end 1.125 ; name iy_3 ; 
+118 id _151 ; end 1.13 ; name n_1 ; 
+119 id _152 ; end 1.205 ; name n_2 ; 
+120 id _153 ; end 1.21 ; name n_3 ; 
+121 id _154 ; end 1.375 ; name er_1 ; 
+122 id _155 ; end 1.38 ; name er_2 ; 
+123 id _156 ; end 1.385 ; name er_3 ; 
+124 id _157 ; end 1.405 ; name v_1 ; 
+125 id _158 ; end 1.42 ; name v_2 ; 
+126 id _159 ; end 1.455 ; name v_3 ; 
+127 id _160 ; end 1.46 ; name ax_1 ; 
+128 id _161 ; end 1.505 ; name ax_2 ; 
+129 id _162 ; end 1.51 ; name ax_3 ; 
+130 id _163 ; end 1.535 ; name s_1 ; 
+131 id _164 ; end 1.575 ; name s_2 ; 
+132 id _165 ; end 1.605 ; name s_3 ; 
+133 id _166 ; end 1.61 ; name p_1 ; 
+134 id _167 ; end 1.74 ; name p_2 ; 
+135 id _168 ; end 1.84 ; name p_3 ; 
+136 id _169 ; end 1.845 ; name r_1 ; 
+137 id _170 ; end 1.895 ; name r_2 ; 
+138 id _171 ; end 1.9 ; name r_3 ; 
+139 id _172 ; end 1.905 ; name aa_1 ; 
+140 id _173 ; end 1.91 ; name aa_2 ; 
+141 id _174 ; end 1.925 ; name aa_3 ; 
+142 id _175 ; end 1.935 ; name s_1 ; 
+143 id _176 ; end 2.095 ; name s_2 ; 
+144 id _177 ; end 2.12 ; name s_3 ; 
+145 id _178 ; end 2.14 ; name t_1 ; 
+146 id _179 ; end 2.145 ; name t_2 ; 
+147 id _180 ; end 2.225 ; name t_3 ; 
+148 id _181 ; end 2.23 ; name r_1 ; 
+149 id _182 ; end 2.25 ; name r_2 ; 
+150 id _183 ; end 2.27 ; name r_3 ; 
+151 id _184 ; end 2.295 ; name ey_1 ; 
+152 id _185 ; end 2.305 ; name ey_2 ; 
+153 id _186 ; end 2.355 ; name ey_3 ; 
+154 id _187 ; end 2.4 ; name sh_1 ; 
+155 id _188 ; end 2.52 ; name sh_2 ; 
+156 id _189 ; end 2.54 ; name sh_3 ; 
+157 id _190 ; end 2.55 ; name ax_1 ; 
+158 id _191 ; end 2.555 ; name ax_2 ; 
+159 id _192 ; end 2.575 ; name ax_3 ; 
+160 id _193 ; end 2.58 ; name n_1 ; 
+161 id _194 ; end 2.615 ; name n_2 ; 
+162 id _195 ; end 2.675 ; name n_3 ; 
+163 id _196 ; end 2.685 ; name pau_1 ; 
+164 id _197 ; end 2.73 ; name pau_2 ; 
+165 id _200 ; frame_number 0 ; name pau_1 ; time 0.005 ; 
+166 id _201 ; frame_number 1 ; name pau_1 ; time 0.01 ; 
+167 id _202 ; frame_number 2 ; name pau_1 ; time 0.015 ; 
+168 id _203 ; frame_number 3 ; name pau_3 ; time 0.02 ; 
+169 id _204 ; frame_number 4 ; name pau_3 ; time 0.025 ; 
+170 id _205 ; frame_number 5 ; name pau_3 ; time 0.03 ; 
+171 id _206 ; frame_number 6 ; name pau_3 ; time 0.035 ; 
+172 id _207 ; frame_number 7 ; name pau_3 ; time 0.04 ; 
+173 id _208 ; frame_number 8 ; name pau_3 ; time 0.045 ; 
+174 id _209 ; frame_number 9 ; name pau_3 ; time 0.05 ; 
+175 id _210 ; frame_number 10 ; name pau_3 ; time 0.055 ; 
+176 id _211 ; frame_number 11 ; name pau_3 ; time 0.06 ; 
+177 id _212 ; frame_number 12 ; name pau_3 ; time 0.065 ; 
+178 id _213 ; frame_number 13 ; name pau_3 ; time 0.07 ; 
+179 id _214 ; frame_number 14 ; name pau_3 ; time 0.075 ; 
+180 id _215 ; frame_number 15 ; name pau_3 ; time 0.08 ; 
+181 id _216 ; frame_number 16 ; name pau_3 ; time 0.085 ; 
+182 id _217 ; frame_number 17 ; name pau_3 ; time 0.09 ; 
+183 id _218 ; frame_number 18 ; name pau_3 ; time 0.095 ; 
+184 id _219 ; frame_number 19 ; name pau_3 ; time 0.1 ; 
+185 id _220 ; frame_number 20 ; name pau_1 ; time 0.105 ; 
+186 id _221 ; frame_number 21 ; name pau_1 ; time 0.11 ; 
+187 id _222 ; frame_number 22 ; name pau_2 ; time 0.115 ; 
+188 id _223 ; frame_number 23 ; name pau_2 ; time 0.12 ; 
+189 id _224 ; frame_number 24 ; name pau_2 ; time 0.125 ; 
+190 id _225 ; frame_number 25 ; name pau_2 ; time 0.13 ; 
+191 id _226 ; frame_number 26 ; name pau_2 ; time 0.135 ; 
+192 id _227 ; frame_number 27 ; name pau_2 ; time 0.14 ; 
+193 id _228 ; frame_number 28 ; name pau_2 ; time 0.145 ; 
+194 id _229 ; frame_number 29 ; name pau_2 ; time 0.15 ; 
+195 id _230 ; frame_number 30 ; name pau_2 ; time 0.155 ; 
+196 id _231 ; frame_number 31 ; name pau_2 ; time 0.16 ; 
+197 id _232 ; frame_number 32 ; name pau_2 ; time 0.165 ; 
+198 id _233 ; frame_number 33 ; name pau_1 ; time 0.17 ; 
+199 id _234 ; frame_number 34 ; name pau_1 ; time 0.175 ; 
+200 id _235 ; frame_number 35 ; name pau_1 ; time 0.18 ; 
+201 id _236 ; frame_number 36 ; name pau_1 ; time 0.185 ; 
+202 id _237 ; frame_number 37 ; name pau_2 ; time 0.19 ; 
+203 id _238 ; frame_number 38 ; name pau_2 ; time 0.195 ; 
+204 id _239 ; frame_number 39 ; name pau_2 ; time 0.2 ; 
+205 id _240 ; frame_number 40 ; name pau_2 ; time 0.205 ; 
+206 id _241 ; frame_number 41 ; name pau_2 ; time 0.21 ; 
+207 id _242 ; frame_number 42 ; name pau_2 ; time 0.215 ; 
+208 id _243 ; frame_number 43 ; name pau_2 ; time 0.22 ; 
+209 id _244 ; frame_number 44 ; name pau_2 ; time 0.225 ; 
+210 id _245 ; frame_number 45 ; name pau_2 ; time 0.23 ; 
+211 id _246 ; frame_number 46 ; name pau_2 ; time 0.235 ; 
+212 id _247 ; frame_number 47 ; name pau_2 ; time 0.24 ; 
+213 id _248 ; frame_number 48 ; name pau_2 ; time 0.245 ; 
+214 id _249 ; frame_number 49 ; name pau_2 ; time 0.25 ; 
+215 id _250 ; frame_number 50 ; name pau_2 ; time 0.255 ; 
+216 id _251 ; frame_number 51 ; name pau_2 ; time 0.26 ; 
+217 id _252 ; frame_number 52 ; name pau_1 ; time 0.265 ; 
+218 id _253 ; frame_number 53 ; name pau_1 ; time 0.27 ; 
+219 id _254 ; frame_number 54 ; name pau_1 ; time 0.275 ; 
+220 id _255 ; frame_number 55 ; name pau_1 ; time 0.28 ; 
+221 id _256 ; frame_number 56 ; name pau_1 ; time 0.285 ; 
+222 id _257 ; frame_number 57 ; name pau_1 ; time 0.29 ; 
+223 id _258 ; frame_number 58 ; name pau_1 ; time 0.295 ; 
+224 id _259 ; frame_number 59 ; name pau_1 ; time 0.3 ; 
+225 id _260 ; frame_number 60 ; name pau_1 ; time 0.305 ; 
+226 id _261 ; frame_number 61 ; name pau_1 ; time 0.31 ; 
+227 id _262 ; frame_number 62 ; name pau_1 ; time 0.315 ; 
+228 id _263 ; frame_number 63 ; name pau_1 ; time 0.32 ; 
+229 id _264 ; frame_number 64 ; name pau_1 ; time 0.325 ; 
+230 id _265 ; frame_number 65 ; name pau_1 ; time 0.33 ; 
+231 id _266 ; frame_number 66 ; name pau_1 ; time 0.335 ; 
+232 id _267 ; frame_number 67 ; name pau_1 ; time 0.34 ; 
+233 id _268 ; frame_number 68 ; name pau_1 ; time 0.345 ; 
+234 id _269 ; frame_number 69 ; name pau_1 ; time 0.35 ; 
+235 id _270 ; frame_number 70 ; name pau_1 ; time 0.355 ; 
+236 id _271 ; frame_number 71 ; name pau_1 ; time 0.36 ; 
+237 id _272 ; frame_number 72 ; name pau_1 ; time 0.365 ; 
+238 id _273 ; frame_number 73 ; name pau_1 ; time 0.37 ; 
+239 id _274 ; frame_number 74 ; name pau_1 ; time 0.375 ; 
+240 id _275 ; frame_number 75 ; name pau_1 ; time 0.38 ; 
+241 id _276 ; frame_number 76 ; name pau_1 ; time 0.385 ; 
+242 id _277 ; frame_number 77 ; name pau_1 ; time 0.39 ; 
+243 id _278 ; frame_number 78 ; name pau_1 ; time 0.395 ; 
+244 id _279 ; frame_number 79 ; name pau_1 ; time 0.4 ; 
+245 id _280 ; frame_number 80 ; name pau_1 ; time 0.405 ; 
+246 id _281 ; frame_number 81 ; name pau_1 ; time 0.41 ; 
+247 id _282 ; frame_number 82 ; name pau_1 ; time 0.415 ; 
+248 id _283 ; frame_number 83 ; name pau_2 ; time 0.42 ; 
+249 id _284 ; frame_number 84 ; name pau_2 ; time 0.425 ; 
+250 id _285 ; frame_number 85 ; name pau_2 ; time 0.43 ; 
+251 id _286 ; frame_number 86 ; name ih_1 ; time 0.435 ; 
+252 id _287 ; frame_number 87 ; name ih_1 ; time 0.44 ; 
+253 id _288 ; frame_number 88 ; name ih_2 ; time 0.445 ; 
+254 id _289 ; frame_number 89 ; name ih_2 ; time 0.45 ; 
+255 id _290 ; frame_number 90 ; name ih_2 ; time 0.455 ; 
+256 id _291 ; frame_number 91 ; name ih_2 ; time 0.46 ; 
+257 id _292 ; frame_number 92 ; name ih_2 ; time 0.465 ; 
+258 id _293 ; frame_number 93 ; name ih_2 ; time 0.47 ; 
+259 id _294 ; frame_number 94 ; name ih_2 ; time 0.475 ; 
+260 id _295 ; frame_number 95 ; name ih_2 ; time 0.48 ; 
+261 id _296 ; frame_number 96 ; name ih_2 ; time 0.485 ; 
+262 id _297 ; frame_number 97 ; name ih_2 ; time 0.49 ; 
+263 id _298 ; frame_number 98 ; name ih_2 ; time 0.495 ; 
+264 id _299 ; frame_number 99 ; name ih_2 ; time 0.5 ; 
+265 id _300 ; frame_number 100 ; name ih_2 ; time 0.505 ; 
+266 id _301 ; frame_number 101 ; name ih_2 ; time 0.51 ; 
+267 id _302 ; frame_number 102 ; name ih_2 ; time 0.515 ; 
+268 id _303 ; frame_number 103 ; name ih_2 ; time 0.52 ; 
+269 id _304 ; frame_number 104 ; name ih_2 ; time 0.525 ; 
+270 id _305 ; frame_number 105 ; name ih_2 ; time 0.53 ; 
+271 id _306 ; frame_number 106 ; name ih_2 ; time 0.535 ; 
+272 id _307 ; frame_number 107 ; name ih_2 ; time 0.54 ; 
+273 id _308 ; frame_number 108 ; name ih_3 ; time 0.545 ; 
+274 id _309 ; frame_number 109 ; name t_1 ; time 0.55 ; 
+275 id _310 ; frame_number 110 ; name t_1 ; time 0.555 ; 
+276 id _311 ; frame_number 111 ; name t_1 ; time 0.56 ; 
+277 id _312 ; frame_number 112 ; name t_1 ; time 0.565 ; 
+278 id _313 ; frame_number 113 ; name t_2 ; time 0.57 ; 
+279 id _314 ; frame_number 114 ; name t_3 ; time 0.575 ; 
+280 id _315 ; frame_number 115 ; name t_3 ; time 0.58 ; 
+281 id _316 ; frame_number 116 ; name t_3 ; time 0.585 ; 
+282 id _317 ; frame_number 117 ; name w_1 ; time 0.59 ; 
+283 id _318 ; frame_number 118 ; name w_1 ; time 0.595 ; 
+284 id _319 ; frame_number 119 ; name w_1 ; time 0.6 ; 
+285 id _320 ; frame_number 120 ; name w_1 ; time 0.605 ; 
+286 id _321 ; frame_number 121 ; name w_1 ; time 0.61 ; 
+287 id _322 ; frame_number 122 ; name w_1 ; time 0.615 ; 
+288 id _323 ; frame_number 123 ; name w_2 ; time 0.62 ; 
+289 id _324 ; frame_number 124 ; name w_2 ; time 0.625 ; 
+290 id _325 ; frame_number 125 ; name w_2 ; time 0.63 ; 
+291 id _326 ; frame_number 126 ; name w_2 ; time 0.635 ; 
+292 id _327 ; frame_number 127 ; name w_2 ; time 0.64 ; 
+293 id _328 ; frame_number 128 ; name w_2 ; time 0.645 ; 
+294 id _329 ; frame_number 129 ; name w_2 ; time 0.65 ; 
+295 id _330 ; frame_number 130 ; name w_3 ; time 0.655 ; 
+296 id _331 ; frame_number 131 ; name w_3 ; time 0.66 ; 
+297 id _332 ; frame_number 132 ; name w_3 ; time 0.665 ; 
+298 id _333 ; frame_number 133 ; name w_3 ; time 0.67 ; 
+299 id _334 ; frame_number 134 ; name w_3 ; time 0.675 ; 
+300 id _335 ; frame_number 135 ; name w_3 ; time 0.68 ; 
+301 id _336 ; frame_number 136 ; name uh_1 ; time 0.685 ; 
+302 id _337 ; frame_number 137 ; name uh_1 ; time 0.69 ; 
+303 id _338 ; frame_number 138 ; name uh_1 ; time 0.695 ; 
+304 id _339 ; frame_number 139 ; name uh_2 ; time 0.7 ; 
+305 id _340 ; frame_number 140 ; name uh_3 ; time 0.705 ; 
+306 id _341 ; frame_number 141 ; name uh_3 ; time 0.71 ; 
+307 id _342 ; frame_number 142 ; name d_1 ; time 0.715 ; 
+308 id _343 ; frame_number 143 ; name d_1 ; time 0.72 ; 
+309 id _344 ; frame_number 144 ; name d_1 ; time 0.725 ; 
+310 id _345 ; frame_number 145 ; name d_1 ; time 0.73 ; 
+311 id _346 ; frame_number 146 ; name d_1 ; time 0.735 ; 
+312 id _347 ; frame_number 147 ; name d_2 ; time 0.74 ; 
+313 id _348 ; frame_number 148 ; name d_3 ; time 0.745 ; 
+314 id _349 ; frame_number 149 ; name d_3 ; time 0.75 ; 
+315 id _350 ; frame_number 150 ; name d_3 ; time 0.755 ; 
+316 id _351 ; frame_number 151 ; name d_3 ; time 0.76 ; 
+317 id _352 ; frame_number 152 ; name g_1 ; time 0.765 ; 
+318 id _353 ; frame_number 153 ; name g_2 ; time 0.77 ; 
+319 id _354 ; frame_number 154 ; name g_2 ; time 0.775 ; 
+320 id _355 ; frame_number 155 ; name g_2 ; time 0.78 ; 
+321 id _356 ; frame_number 156 ; name g_3 ; time 0.785 ; 
+322 id _357 ; frame_number 157 ; name g_3 ; time 0.79 ; 
+323 id _358 ; frame_number 158 ; name g_3 ; time 0.795 ; 
+324 id _359 ; frame_number 159 ; name g_3 ; time 0.8 ; 
+325 id _360 ; frame_number 160 ; name g_3 ; time 0.805 ; 
+326 id _361 ; frame_number 161 ; name g_3 ; time 0.81 ; 
+327 id _362 ; frame_number 162 ; name g_3 ; time 0.815 ; 
+328 id _363 ; frame_number 163 ; name g_3 ; time 0.82 ; 
+329 id _364 ; frame_number 164 ; name g_3 ; time 0.825 ; 
+330 id _365 ; frame_number 165 ; name g_3 ; time 0.83 ; 
+331 id _366 ; frame_number 166 ; name g_3 ; time 0.835 ; 
+332 id _367 ; frame_number 167 ; name g_3 ; time 0.84 ; 
+333 id _368 ; frame_number 168 ; name ih_1 ; time 0.845 ; 
+334 id _369 ; frame_number 169 ; name ih_1 ; time 0.85 ; 
+335 id _370 ; frame_number 170 ; name ih_2 ; time 0.855 ; 
+336 id _371 ; frame_number 171 ; name ih_2 ; time 0.86 ; 
+337 id _372 ; frame_number 172 ; name ih_2 ; time 0.865 ; 
+338 id _373 ; frame_number 173 ; name ih_2 ; time 0.87 ; 
+339 id _374 ; frame_number 174 ; name ih_2 ; time 0.875 ; 
+340 id _375 ; frame_number 175 ; name ih_2 ; time 0.88 ; 
+341 id _376 ; frame_number 176 ; name ih_2 ; time 0.885 ; 
+342 id _377 ; frame_number 177 ; name ih_2 ; time 0.89 ; 
+343 id _378 ; frame_number 178 ; name ih_2 ; time 0.895 ; 
+344 id _379 ; frame_number 179 ; name ih_2 ; time 0.9 ; 
+345 id _380 ; frame_number 180 ; name ih_2 ; time 0.905 ; 
+346 id _381 ; frame_number 181 ; name ih_2 ; time 0.91 ; 
+347 id _382 ; frame_number 182 ; name ih_2 ; time 0.915 ; 
+348 id _383 ; frame_number 183 ; name ih_2 ; time 0.92 ; 
+349 id _384 ; frame_number 184 ; name ih_3 ; time 0.925 ; 
+350 id _385 ; frame_number 185 ; name ih_3 ; time 0.93 ; 
+351 id _386 ; frame_number 186 ; name v_1 ; time 0.935 ; 
+352 id _387 ; frame_number 187 ; name v_2 ; time 0.94 ; 
+353 id _388 ; frame_number 188 ; name v_2 ; time 0.945 ; 
+354 id _389 ; frame_number 189 ; name v_2 ; time 0.95 ; 
+355 id _390 ; frame_number 190 ; name v_2 ; time 0.955 ; 
+356 id _391 ; frame_number 191 ; name v_3 ; time 0.96 ; 
+357 id _392 ; frame_number 192 ; name v_3 ; time 0.965 ; 
+358 id _393 ; frame_number 193 ; name v_3 ; time 0.97 ; 
+359 id _394 ; frame_number 194 ; name v_3 ; time 0.975 ; 
+360 id _395 ; frame_number 195 ; name v_3 ; time 0.98 ; 
+361 id _396 ; frame_number 196 ; name v_3 ; time 0.985 ; 
+362 id _397 ; frame_number 197 ; name v_3 ; time 0.99 ; 
+363 id _398 ; frame_number 198 ; name v_3 ; time 0.995 ; 
+364 id _399 ; frame_number 199 ; name v_3 ; time 1 ; 
+365 id _400 ; frame_number 200 ; name pau_5 ; time 1.005 ; 
+366 id _401 ; frame_number 201 ; name pau_5 ; time 1.01 ; 
+367 id _402 ; frame_number 202 ; name pau_5 ; time 1.015 ; 
+368 id _403 ; frame_number 203 ; name m_1 ; time 1.02 ; 
+369 id _404 ; frame_number 204 ; name m_1 ; time 1.025 ; 
+370 id _405 ; frame_number 205 ; name m_1 ; time 1.03 ; 
+371 id _406 ; frame_number 206 ; name m_2 ; time 1.035 ; 
+372 id _407 ; frame_number 207 ; name m_3 ; time 1.04 ; 
+373 id _408 ; frame_number 208 ; name iy_1 ; time 1.045 ; 
+374 id _409 ; frame_number 209 ; name iy_1 ; time 1.05 ; 
+375 id _410 ; frame_number 210 ; name iy_1 ; time 1.055 ; 
+376 id _411 ; frame_number 211 ; name iy_1 ; time 1.06 ; 
+377 id _412 ; frame_number 212 ; name iy_2 ; time 1.065 ; 
+378 id _413 ; frame_number 213 ; name iy_2 ; time 1.07 ; 
+379 id _414 ; frame_number 214 ; name iy_2 ; time 1.075 ; 
+380 id _415 ; frame_number 215 ; name iy_2 ; time 1.08 ; 
+381 id _416 ; frame_number 216 ; name iy_2 ; time 1.085 ; 
+382 id _417 ; frame_number 217 ; name iy_2 ; time 1.09 ; 
+383 id _418 ; frame_number 218 ; name iy_2 ; time 1.095 ; 
+384 id _419 ; frame_number 219 ; name iy_2 ; time 1.1 ; 
+385 id _420 ; frame_number 220 ; name iy_2 ; time 1.105 ; 
+386 id _421 ; frame_number 221 ; name iy_2 ; time 1.11 ; 
+387 id _422 ; frame_number 222 ; name iy_2 ; time 1.115 ; 
+388 id _423 ; frame_number 223 ; name iy_2 ; time 1.12 ; 
+389 id _424 ; frame_number 224 ; name iy_2 ; time 1.125 ; 
+390 id _425 ; frame_number 225 ; name iy_3 ; time 1.13 ; 
+391 id _426 ; frame_number 226 ; name n_1 ; time 1.135 ; 
+392 id _427 ; frame_number 227 ; name n_2 ; time 1.14 ; 
+393 id _428 ; frame_number 228 ; name n_2 ; time 1.145 ; 
+394 id _429 ; frame_number 229 ; name n_2 ; time 1.15 ; 
+395 id _430 ; frame_number 230 ; name n_2 ; time 1.155 ; 
+396 id _431 ; frame_number 231 ; name n_2 ; time 1.16 ; 
+397 id _432 ; frame_number 232 ; name n_2 ; time 1.165 ; 
+398 id _433 ; frame_number 233 ; name n_2 ; time 1.17 ; 
+399 id _434 ; frame_number 234 ; name n_2 ; time 1.175 ; 
+400 id _435 ; frame_number 235 ; name n_2 ; time 1.18 ; 
+401 id _436 ; frame_number 236 ; name n_2 ; time 1.185 ; 
+402 id _437 ; frame_number 237 ; name n_2 ; time 1.19 ; 
+403 id _438 ; frame_number 238 ; name n_2 ; time 1.195 ; 
+404 id _439 ; frame_number 239 ; name n_2 ; time 1.2 ; 
+405 id _440 ; frame_number 240 ; name n_2 ; time 1.205 ; 
+406 id _441 ; frame_number 241 ; name n_2 ; time 1.21 ; 
+407 id _442 ; frame_number 242 ; name n_3 ; time 1.215 ; 
+408 id _443 ; frame_number 243 ; name er_1 ; time 1.22 ; 
+409 id _444 ; frame_number 244 ; name er_1 ; time 1.225 ; 
+410 id _445 ; frame_number 245 ; name er_1 ; time 1.23 ; 
+411 id _446 ; frame_number 246 ; name er_1 ; time 1.235 ; 
+412 id _447 ; frame_number 247 ; name er_1 ; time 1.24 ; 
+413 id _448 ; frame_number 248 ; name er_1 ; time 1.245 ; 
+414 id _449 ; frame_number 249 ; name er_1 ; time 1.25 ; 
+415 id _450 ; frame_number 250 ; name er_1 ; time 1.255 ; 
+416 id _451 ; frame_number 251 ; name er_1 ; time 1.26 ; 
+417 id _452 ; frame_number 252 ; name er_1 ; time 1.265 ; 
+418 id _453 ; frame_number 253 ; name er_1 ; time 1.27 ; 
+419 id _454 ; frame_number 254 ; name er_1 ; time 1.275 ; 
+420 id _455 ; frame_number 255 ; name er_1 ; time 1.28 ; 
+421 id _456 ; frame_number 256 ; name er_1 ; time 1.285 ; 
+422 id _457 ; frame_number 257 ; name er_1 ; time 1.29 ; 
+423 id _458 ; frame_number 258 ; name er_1 ; time 1.295 ; 
+424 id _459 ; frame_number 259 ; name er_1 ; time 1.3 ; 
+425 id _460 ; frame_number 260 ; name er_1 ; time 1.305 ; 
+426 id _461 ; frame_number 261 ; name er_1 ; time 1.31 ; 
+427 id _462 ; frame_number 262 ; name er_1 ; time 1.315 ; 
+428 id _463 ; frame_number 263 ; name er_1 ; time 1.32 ; 
+429 id _464 ; frame_number 264 ; name er_1 ; time 1.325 ; 
+430 id _465 ; frame_number 265 ; name er_1 ; time 1.33 ; 
+431 id _466 ; frame_number 266 ; name er_1 ; time 1.335 ; 
+432 id _467 ; frame_number 267 ; name er_1 ; time 1.34 ; 
+433 id _468 ; frame_number 268 ; name er_1 ; time 1.345 ; 
+434 id _469 ; frame_number 269 ; name er_1 ; time 1.35 ; 
+435 id _470 ; frame_number 270 ; name er_1 ; time 1.355 ; 
+436 id _471 ; frame_number 271 ; name er_1 ; time 1.36 ; 
+437 id _472 ; frame_number 272 ; name er_1 ; time 1.365 ; 
+438 id _473 ; frame_number 273 ; name er_1 ; time 1.37 ; 
+439 id _474 ; frame_number 274 ; name er_1 ; time 1.375 ; 
+440 id _475 ; frame_number 275 ; name er_1 ; time 1.38 ; 
+441 id _476 ; frame_number 276 ; name er_2 ; time 1.385 ; 
+442 id _477 ; frame_number 277 ; name er_3 ; time 1.39 ; 
+443 id _478 ; frame_number 278 ; name v_1 ; time 1.395 ; 
+444 id _479 ; frame_number 279 ; name v_1 ; time 1.4 ; 
+445 id _480 ; frame_number 280 ; name v_1 ; time 1.405 ; 
+446 id _481 ; frame_number 281 ; name v_1 ; time 1.41 ; 
+447 id _482 ; frame_number 282 ; name v_2 ; time 1.415 ; 
+448 id _483 ; frame_number 283 ; name v_2 ; time 1.42 ; 
+449 id _484 ; frame_number 284 ; name v_2 ; time 1.425 ; 
+450 id _485 ; frame_number 285 ; name v_3 ; time 1.43 ; 
+451 id _486 ; frame_number 286 ; name v_3 ; time 1.435 ; 
+452 id _487 ; frame_number 287 ; name v_3 ; time 1.44 ; 
+453 id _488 ; frame_number 288 ; name v_3 ; time 1.445 ; 
+454 id _489 ; frame_number 289 ; name v_3 ; time 1.45 ; 
+455 id _490 ; frame_number 290 ; name v_3 ; time 1.455 ; 
+456 id _491 ; frame_number 291 ; name v_3 ; time 1.46 ; 
+457 id _492 ; frame_number 292 ; name ax_1 ; time 1.465 ; 
+458 id _493 ; frame_number 293 ; name ax_2 ; time 1.47 ; 
+459 id _494 ; frame_number 294 ; name ax_2 ; time 1.475 ; 
+460 id _495 ; frame_number 295 ; name ax_2 ; time 1.48 ; 
+461 id _496 ; frame_number 296 ; name ax_2 ; time 1.485 ; 
+462 id _497 ; frame_number 297 ; name ax_2 ; time 1.49 ; 
+463 id _498 ; frame_number 298 ; name ax_2 ; time 1.495 ; 
+464 id _499 ; frame_number 299 ; name ax_2 ; time 1.5 ; 
+465 id _500 ; frame_number 300 ; name ax_2 ; time 1.505 ; 
+466 id _501 ; frame_number 301 ; name ax_2 ; time 1.51 ; 
+467 id _502 ; frame_number 302 ; name ax_3 ; time 1.515 ; 
+468 id _503 ; frame_number 303 ; name s_1 ; time 1.52 ; 
+469 id _504 ; frame_number 304 ; name s_1 ; time 1.525 ; 
+470 id _505 ; frame_number 305 ; name s_1 ; time 1.53 ; 
+471 id _506 ; frame_number 306 ; name s_1 ; time 1.535 ; 
+472 id _507 ; frame_number 307 ; name s_1 ; time 1.54 ; 
+473 id _508 ; frame_number 308 ; name s_2 ; time 1.545 ; 
+474 id _509 ; frame_number 309 ; name s_2 ; time 1.55 ; 
+475 id _510 ; frame_number 310 ; name s_2 ; time 1.555 ; 
+476 id _511 ; frame_number 311 ; name s_2 ; time 1.56 ; 
+477 id _512 ; frame_number 312 ; name s_2 ; time 1.565 ; 
+478 id _513 ; frame_number 313 ; name s_2 ; time 1.57 ; 
+479 id _514 ; frame_number 314 ; name s_2 ; time 1.575 ; 
+480 id _515 ; frame_number 315 ; name s_2 ; time 1.58 ; 
+481 id _516 ; frame_number 316 ; name s_3 ; time 1.585 ; 
+482 id _517 ; frame_number 317 ; name s_3 ; time 1.59 ; 
+483 id _518 ; frame_number 318 ; name s_3 ; time 1.595 ; 
+484 id _519 ; frame_number 319 ; name s_3 ; time 1.6 ; 
+485 id _520 ; frame_number 320 ; name s_3 ; time 1.605 ; 
+486 id _521 ; frame_number 321 ; name s_3 ; time 1.61 ; 
+487 id _522 ; frame_number 322 ; name p_1 ; time 1.615 ; 
+488 id _523 ; frame_number 323 ; name p_2 ; time 1.62 ; 
+489 id _524 ; frame_number 324 ; name p_2 ; time 1.625 ; 
+490 id _525 ; frame_number 325 ; name p_2 ; time 1.63 ; 
+491 id _526 ; frame_number 326 ; name p_2 ; time 1.635 ; 
+492 id _527 ; frame_number 327 ; name p_2 ; time 1.64 ; 
+493 id _528 ; frame_number 328 ; name p_2 ; time 1.645 ; 
+494 id _529 ; frame_number 329 ; name p_2 ; time 1.65 ; 
+495 id _530 ; frame_number 330 ; name p_2 ; time 1.655 ; 
+496 id _531 ; frame_number 331 ; name p_2 ; time 1.66 ; 
+497 id _532 ; frame_number 332 ; name p_2 ; time 1.665 ; 
+498 id _533 ; frame_number 333 ; name p_2 ; time 1.67 ; 
+499 id _534 ; frame_number 334 ; name p_2 ; time 1.675 ; 
+500 id _535 ; frame_number 335 ; name p_2 ; time 1.68 ; 
+501 id _536 ; frame_number 336 ; name p_2 ; time 1.685 ; 
+502 id _537 ; frame_number 337 ; name p_2 ; time 1.69 ; 
+503 id _538 ; frame_number 338 ; name p_2 ; time 1.695 ; 
+504 id _539 ; frame_number 339 ; name p_2 ; time 1.7 ; 
+505 id _540 ; frame_number 340 ; name p_2 ; time 1.705 ; 
+506 id _541 ; frame_number 341 ; name p_2 ; time 1.71 ; 
+507 id _542 ; frame_number 342 ; name p_2 ; time 1.715 ; 
+508 id _543 ; frame_number 343 ; name p_2 ; time 1.72 ; 
+509 id _544 ; frame_number 344 ; name p_2 ; time 1.725 ; 
+510 id _545 ; frame_number 345 ; name p_2 ; time 1.73 ; 
+511 id _546 ; frame_number 346 ; name p_2 ; time 1.735 ; 
+512 id _547 ; frame_number 347 ; name p_2 ; time 1.74 ; 
+513 id _548 ; frame_number 348 ; name p_2 ; time 1.745 ; 
+514 id _549 ; frame_number 349 ; name p_3 ; time 1.75 ; 
+515 id _550 ; frame_number 350 ; name p_3 ; time 1.755 ; 
+516 id _551 ; frame_number 351 ; name p_3 ; time 1.76 ; 
+517 id _552 ; frame_number 352 ; name p_3 ; time 1.765 ; 
+518 id _553 ; frame_number 353 ; name p_3 ; time 1.77 ; 
+519 id _554 ; frame_number 354 ; name p_3 ; time 1.775 ; 
+520 id _555 ; frame_number 355 ; name p_3 ; time 1.78 ; 
+521 id _556 ; frame_number 356 ; name p_3 ; time 1.785 ; 
+522 id _557 ; frame_number 357 ; name p_3 ; time 1.79 ; 
+523 id _558 ; frame_number 358 ; name p_3 ; time 1.795 ; 
+524 id _559 ; frame_number 359 ; name p_3 ; time 1.8 ; 
+525 id _560 ; frame_number 360 ; name p_3 ; time 1.805 ; 
+526 id _561 ; frame_number 361 ; name p_3 ; time 1.81 ; 
+527 id _562 ; frame_number 362 ; name p_3 ; time 1.815 ; 
+528 id _563 ; frame_number 363 ; name p_3 ; time 1.82 ; 
+529 id _564 ; frame_number 364 ; name p_3 ; time 1.825 ; 
+530 id _565 ; frame_number 365 ; name p_3 ; time 1.83 ; 
+531 id _566 ; frame_number 366 ; name p_3 ; time 1.835 ; 
+532 id _567 ; frame_number 367 ; name p_3 ; time 1.84 ; 
+533 id _568 ; frame_number 368 ; name p_3 ; time 1.845 ; 
+534 id _569 ; frame_number 369 ; name r_1 ; time 1.85 ; 
+535 id _570 ; frame_number 370 ; name r_2 ; time 1.855 ; 
+536 id _571 ; frame_number 371 ; name r_2 ; time 1.86 ; 
+537 id _572 ; frame_number 372 ; name r_2 ; time 1.865 ; 
+538 id _573 ; frame_number 373 ; name r_2 ; time 1.87 ; 
+539 id _574 ; frame_number 374 ; name r_2 ; time 1.875 ; 
+540 id _575 ; frame_number 375 ; name r_2 ; time 1.88 ; 
+541 id _576 ; frame_number 376 ; name r_2 ; time 1.885 ; 
+542 id _577 ; frame_number 377 ; name r_2 ; time 1.89 ; 
+543 id _578 ; frame_number 378 ; name r_2 ; time 1.895 ; 
+544 id _579 ; frame_number 379 ; name r_2 ; time 1.9 ; 
+545 id _580 ; frame_number 380 ; name r_3 ; time 1.905 ; 
+546 id _581 ; frame_number 381 ; name aa_1 ; time 1.91 ; 
+547 id _582 ; frame_number 382 ; name aa_2 ; time 1.915 ; 
+548 id _583 ; frame_number 383 ; name aa_3 ; time 1.92 ; 
+549 id _584 ; frame_number 384 ; name aa_3 ; time 1.925 ; 
+550 id _585 ; frame_number 385 ; name aa_3 ; time 1.93 ; 
+551 id _586 ; frame_number 386 ; name s_1 ; time 1.935 ; 
+552 id _587 ; frame_number 387 ; name s_1 ; time 1.94 ; 
+553 id _588 ; frame_number 388 ; name s_2 ; time 1.945 ; 
+554 id _589 ; frame_number 389 ; name s_2 ; time 1.95 ; 
+555 id _590 ; frame_number 390 ; name s_2 ; time 1.955 ; 
+556 id _591 ; frame_number 391 ; name s_2 ; time 1.96 ; 
+557 id _592 ; frame_number 392 ; name s_2 ; time 1.965 ; 
+558 id _593 ; frame_number 393 ; name s_2 ; time 1.97 ; 
+559 id _594 ; frame_number 394 ; name s_2 ; time 1.975 ; 
+560 id _595 ; frame_number 395 ; name s_2 ; time 1.98 ; 
+561 id _596 ; frame_number 396 ; name s_2 ; time 1.985 ; 
+562 id _597 ; frame_number 397 ; name s_2 ; time 1.99 ; 
+563 id _598 ; frame_number 398 ; name s_2 ; time 1.995 ; 
+564 id _599 ; frame_number 399 ; name s_2 ; time 2 ; 
+565 id _600 ; frame_number 400 ; name s_2 ; time 2.005 ; 
+566 id _601 ; frame_number 401 ; name s_2 ; time 2.01 ; 
+567 id _602 ; frame_number 402 ; name s_2 ; time 2.015 ; 
+568 id _603 ; frame_number 403 ; name s_2 ; time 2.02 ; 
+569 id _604 ; frame_number 404 ; name s_2 ; time 2.025 ; 
+570 id _605 ; frame_number 405 ; name s_2 ; time 2.03 ; 
+571 id _606 ; frame_number 406 ; name s_2 ; time 2.035 ; 
+572 id _607 ; frame_number 407 ; name s_2 ; time 2.04 ; 
+573 id _608 ; frame_number 408 ; name s_2 ; time 2.045 ; 
+574 id _609 ; frame_number 409 ; name s_2 ; time 2.05 ; 
+575 id _610 ; frame_number 410 ; name s_2 ; time 2.055 ; 
+576 id _611 ; frame_number 411 ; name s_2 ; time 2.06 ; 
+577 id _612 ; frame_number 412 ; name s_2 ; time 2.065 ; 
+578 id _613 ; frame_number 413 ; name s_2 ; time 2.07 ; 
+579 id _614 ; frame_number 414 ; name s_2 ; time 2.075 ; 
+580 id _615 ; frame_number 415 ; name s_2 ; time 2.08 ; 
+581 id _616 ; frame_number 416 ; name s_2 ; time 2.085 ; 
+582 id _617 ; frame_number 417 ; name s_2 ; time 2.09 ; 
+583 id _618 ; frame_number 418 ; name s_2 ; time 2.095 ; 
+584 id _619 ; frame_number 419 ; name s_2 ; time 2.1 ; 
+585 id _620 ; frame_number 420 ; name s_3 ; time 2.105 ; 
+586 id _621 ; frame_number 421 ; name s_3 ; time 2.11 ; 
+587 id _622 ; frame_number 422 ; name s_3 ; time 2.115 ; 
+588 id _623 ; frame_number 423 ; name s_3 ; time 2.12 ; 
+589 id _624 ; frame_number 424 ; name s_3 ; time 2.125 ; 
+590 id _625 ; frame_number 425 ; name t_1 ; time 2.13 ; 
+591 id _626 ; frame_number 426 ; name t_1 ; time 2.135 ; 
+592 id _627 ; frame_number 427 ; name t_1 ; time 2.14 ; 
+593 id _628 ; frame_number 428 ; name t_1 ; time 2.145 ; 
+594 id _629 ; frame_number 429 ; name t_2 ; time 2.15 ; 
+595 id _630 ; frame_number 430 ; name t_3 ; time 2.155 ; 
+596 id _631 ; frame_number 431 ; name t_3 ; time 2.16 ; 
+597 id _632 ; frame_number 432 ; name t_3 ; time 2.165 ; 
+598 id _633 ; frame_number 433 ; name t_3 ; time 2.17 ; 
+599 id _634 ; frame_number 434 ; name t_3 ; time 2.175 ; 
+600 id _635 ; frame_number 435 ; name t_3 ; time 2.18 ; 
+601 id _636 ; frame_number 436 ; name t_3 ; time 2.185 ; 
+602 id _637 ; frame_number 437 ; name t_3 ; time 2.19 ; 
+603 id _638 ; frame_number 438 ; name t_3 ; time 2.195 ; 
+604 id _639 ; frame_number 439 ; name t_3 ; time 2.2 ; 
+605 id _640 ; frame_number 440 ; name t_3 ; time 2.205 ; 
+606 id _641 ; frame_number 441 ; name t_3 ; time 2.21 ; 
+607 id _642 ; frame_number 442 ; name t_3 ; time 2.215 ; 
+608 id _643 ; frame_number 443 ; name t_3 ; time 2.22 ; 
+609 id _644 ; frame_number 444 ; name t_3 ; time 2.225 ; 
+610 id _645 ; frame_number 445 ; name t_3 ; time 2.23 ; 
+611 id _646 ; frame_number 446 ; name r_1 ; time 2.235 ; 
+612 id _647 ; frame_number 447 ; name r_2 ; time 2.24 ; 
+613 id _648 ; frame_number 448 ; name r_2 ; time 2.245 ; 
+614 id _649 ; frame_number 449 ; name r_2 ; time 2.25 ; 
+615 id _650 ; frame_number 450 ; name r_2 ; time 2.255 ; 
+616 id _651 ; frame_number 451 ; name r_3 ; time 2.26 ; 
+617 id _652 ; frame_number 452 ; name r_3 ; time 2.265 ; 
+618 id _653 ; frame_number 453 ; name r_3 ; time 2.27 ; 
+619 id _654 ; frame_number 454 ; name r_3 ; time 2.275 ; 
+620 id _655 ; frame_number 455 ; name ey_1 ; time 2.28 ; 
+621 id _656 ; frame_number 456 ; name ey_1 ; time 2.285 ; 
+622 id _657 ; frame_number 457 ; name ey_1 ; time 2.29 ; 
+623 id _658 ; frame_number 458 ; name ey_1 ; time 2.295 ; 
+624 id _659 ; frame_number 459 ; name ey_1 ; time 2.3 ; 
+625 id _660 ; frame_number 460 ; name ey_2 ; time 2.305 ; 
+626 id _661 ; frame_number 461 ; name ey_2 ; time 2.31 ; 
+627 id _662 ; frame_number 462 ; name ey_3 ; time 2.315 ; 
+628 id _663 ; frame_number 463 ; name ey_3 ; time 2.32 ; 
+629 id _664 ; frame_number 464 ; name ey_3 ; time 2.325 ; 
+630 id _665 ; frame_number 465 ; name ey_3 ; time 2.33 ; 
+631 id _666 ; frame_number 466 ; name ey_3 ; time 2.335 ; 
+632 id _667 ; frame_number 467 ; name ey_3 ; time 2.34 ; 
+633 id _668 ; frame_number 468 ; name ey_3 ; time 2.345 ; 
+634 id _669 ; frame_number 469 ; name ey_3 ; time 2.35 ; 
+635 id _670 ; frame_number 470 ; name ey_3 ; time 2.355 ; 
+636 id _671 ; frame_number 471 ; name ey_3 ; time 2.36 ; 
+637 id _672 ; frame_number 472 ; name sh_1 ; time 2.365 ; 
+638 id _673 ; frame_number 473 ; name sh_1 ; time 2.37 ; 
+639 id _674 ; frame_number 474 ; name sh_1 ; time 2.375 ; 
+640 id _675 ; frame_number 475 ; name sh_1 ; time 2.38 ; 
+641 id _676 ; frame_number 476 ; name sh_1 ; time 2.385 ; 
+642 id _677 ; frame_number 477 ; name sh_1 ; time 2.39 ; 
+643 id _678 ; frame_number 478 ; name sh_1 ; time 2.395 ; 
+644 id _679 ; frame_number 479 ; name sh_1 ; time 2.4 ; 
+645 id _680 ; frame_number 480 ; name sh_1 ; time 2.405 ; 
+646 id _681 ; frame_number 481 ; name sh_2 ; time 2.41 ; 
+647 id _682 ; frame_number 482 ; name sh_2 ; time 2.415 ; 
+648 id _683 ; frame_number 483 ; name sh_2 ; time 2.42 ; 
+649 id _684 ; frame_number 484 ; name sh_2 ; time 2.425 ; 
+650 id _685 ; frame_number 485 ; name sh_2 ; time 2.43 ; 
+651 id _686 ; frame_number 486 ; name sh_2 ; time 2.435 ; 
+652 id _687 ; frame_number 487 ; name sh_2 ; time 2.44 ; 
+653 id _688 ; frame_number 488 ; name sh_2 ; time 2.445 ; 
+654 id _689 ; frame_number 489 ; name sh_2 ; time 2.45 ; 
+655 id _690 ; frame_number 490 ; name sh_2 ; time 2.455 ; 
+656 id _691 ; frame_number 491 ; name sh_2 ; time 2.46 ; 
+657 id _692 ; frame_number 492 ; name sh_2 ; time 2.465 ; 
+658 id _693 ; frame_number 493 ; name sh_2 ; time 2.47 ; 
+659 id _694 ; frame_number 494 ; name sh_2 ; time 2.475 ; 
+660 id _695 ; frame_number 495 ; name sh_2 ; time 2.48 ; 
+661 id _696 ; frame_number 496 ; name sh_2 ; time 2.485 ; 
+662 id _697 ; frame_number 497 ; name sh_2 ; time 2.49 ; 
+663 id _698 ; frame_number 498 ; name sh_2 ; time 2.495 ; 
+664 id _699 ; frame_number 499 ; name sh_2 ; time 2.5 ; 
+665 id _700 ; frame_number 500 ; name sh_2 ; time 2.505 ; 
+666 id _701 ; frame_number 501 ; name sh_2 ; time 2.51 ; 
+667 id _702 ; frame_number 502 ; name sh_2 ; time 2.515 ; 
+668 id _703 ; frame_number 503 ; name sh_2 ; time 2.52 ; 
+669 id _704 ; frame_number 504 ; name sh_2 ; time 2.525 ; 
+670 id _705 ; frame_number 505 ; name sh_3 ; time 2.53 ; 
+671 id _706 ; frame_number 506 ; name sh_3 ; time 2.535 ; 
+672 id _707 ; frame_number 507 ; name sh_3 ; time 2.54 ; 
+673 id _708 ; frame_number 508 ; name sh_3 ; time 2.545 ; 
+674 id _709 ; frame_number 509 ; name ax_1 ; time 2.55 ; 
+675 id _710 ; frame_number 510 ; name ax_1 ; time 2.555 ; 
+676 id _711 ; frame_number 511 ; name ax_2 ; time 2.56 ; 
+677 id _712 ; frame_number 512 ; name ax_3 ; time 2.565 ; 
+678 id _713 ; frame_number 513 ; name ax_3 ; time 2.57 ; 
+679 id _714 ; frame_number 514 ; name ax_3 ; time 2.575 ; 
+680 id _715 ; frame_number 515 ; name ax_3 ; time 2.58 ; 
+681 id _716 ; frame_number 516 ; name n_1 ; time 2.585 ; 
+682 id _717 ; frame_number 517 ; name n_2 ; time 2.59 ; 
+683 id _718 ; frame_number 518 ; name n_2 ; time 2.595 ; 
+684 id _719 ; frame_number 519 ; name n_2 ; time 2.6 ; 
+685 id _720 ; frame_number 520 ; name n_2 ; time 2.605 ; 
+686 id _721 ; frame_number 521 ; name n_2 ; time 2.61 ; 
+687 id _722 ; frame_number 522 ; name n_2 ; time 2.615 ; 
+688 id _723 ; frame_number 523 ; name n_2 ; time 2.62 ; 
+689 id _724 ; frame_number 524 ; name n_3 ; time 2.625 ; 
+690 id _725 ; frame_number 525 ; name n_3 ; time 2.63 ; 
+691 id _726 ; frame_number 526 ; name n_3 ; time 2.635 ; 
+692 id _727 ; frame_number 527 ; name n_3 ; time 2.64 ; 
+693 id _728 ; frame_number 528 ; name n_3 ; time 2.645 ; 
+694 id _729 ; frame_number 529 ; name n_3 ; time 2.65 ; 
+695 id _730 ; frame_number 530 ; name n_3 ; time 2.655 ; 
+696 id _731 ; frame_number 531 ; name n_3 ; time 2.66 ; 
+697 id _732 ; frame_number 532 ; name n_3 ; time 2.665 ; 
+698 id _733 ; frame_number 533 ; name n_3 ; time 2.67 ; 
+699 id _734 ; frame_number 534 ; name n_3 ; time 2.675 ; 
+700 id _735 ; frame_number 535 ; name n_3 ; time 2.68 ; 
+701 id _736 ; frame_number 536 ; name pau_1 ; time 2.685 ; 
+702 id _737 ; frame_number 537 ; name pau_1 ; time 2.69 ; 
+703 id _738 ; frame_number 538 ; name pau_2 ; time 2.695 ; 
+704 id _739 ; frame_number 539 ; name pau_2 ; time 2.7 ; 
+705 id _740 ; frame_number 540 ; name pau_2 ; time 2.705 ; 
+706 id _741 ; frame_number 541 ; name pau_2 ; time 2.71 ; 
+707 id _742 ; frame_number 542 ; name pau_2 ; time 2.715 ; 
+708 id _743 ; frame_number 543 ; name pau_2 ; time 2.72 ; 
+709 id _744 ; frame_number 544 ; name pau_2 ; time 2.725 ; 
+710 id _745 ; frame_number 545 ; name pau_2 ; time 2.73 ; 
+End_of_Stream_Items
+Relations
+Relation Token ; "(" ")" ; 
+7 13 1 0 0 0
+1 1 0 7 2 0
+8 12 2 0 0 0
+2 2 0 8 3 1
+9 11 3 0 0 0
+3 3 0 9 4 2
+10 10 4 0 0 0
+4 4 0 10 5 3
+11 9 5 0 0 0
+5 5 0 11 6 4
+12 7 6 0 13 0
+13 8 0 0 0 12
+6 6 0 12 0 5
+End_of_Relation
+Relation Word ; "(" ")" ; 
+1 13 0 0 2 0
+2 12 0 0 3 1
+3 11 0 0 4 2
+4 10 0 0 5 3
+5 9 0 0 6 4
+6 7 0 0 0 5
+End_of_Relation
+Relation Syllable ; "(" ")" ; 
+1 14 0 0 2 0
+2 15 0 0 3 1
+3 16 0 0 4 2
+4 17 0 0 5 3
+5 18 0 0 6 4
+6 19 0 0 7 5
+7 20 0 0 8 6
+8 21 0 0 9 7
+9 22 0 0 0 8
+End_of_Relation
+Relation Segment ; "(" ")" ; 
+1 23 0 0 2 0
+2 24 0 0 3 1
+3 25 0 0 4 2
+4 26 0 0 5 3
+5 27 0 0 6 4
+6 28 0 0 7 5
+7 29 0 0 8 6
+8 30 0 0 9 7
+9 31 0 0 10 8
+10 32 0 0 11 9
+11 33 0 0 12 10
+12 34 0 0 13 11
+13 35 0 0 14 12
+14 36 0 0 15 13
+15 37 0 0 16 14
+16 38 0 0 17 15
+17 39 0 0 18 16
+18 40 0 0 19 17
+19 41 0 0 20 18
+20 42 0 0 21 19
+21 43 0 0 22 20
+22 44 0 0 23 21
+23 45 0 0 24 22
+24 46 0 0 25 23
+25 47 0 0 26 24
+26 48 0 0 27 25
+27 49 0 0 28 26
+28 50 0 0 29 27
+29 51 0 0 30 28
+30 52 0 0 31 29
+31 53 0 0 0 30
+End_of_Relation
+Relation SylStructure ; "(" ")" ; 
+9 27 8 0 10 0
+10 28 0 0 0 9
+8 14 1 9 0 0
+1 13 0 8 2 0
+12 29 11 0 13 0
+13 30 0 0 14 12
+14 31 0 0 0 13
+11 15 2 12 0 0
+2 12 0 11 3 1
+16 32 15 0 17 0
+17 33 0 0 18 16
+18 34 0 0 0 17
+15 16 3 16 0 0
+3 11 0 15 4 2
+20 36 19 0 21 0
+21 37 0 0 0 20
+19 17 4 20 0 0
+4 10 0 19 5 3
+24 38 22 0 25 0
+25 39 0 0 0 24
+22 18 5 24 23 0
+26 40 23 0 27 0
+27 41 0 0 28 26
+28 42 0 0 0 27
+23 19 0 26 0 22
+5 9 0 22 6 4
+32 43 29 0 33 0
+33 44 0 0 34 32
+34 45 0 0 0 33
+29 20 6 32 30 0
+35 46 30 0 36 0
+36 47 0 0 37 35
+37 48 0 0 38 36
+38 49 0 0 0 37
+30 21 0 35 31 29
+39 50 31 0 40 0
+40 51 0 0 41 39
+41 52 0 0 0 40
+31 22 0 39 0 30
+6 7 0 29 7 5
+7 8 0 0 0 6
+End_of_Relation
+Relation IntEvent ; "(" ")" ; 
+1 54 0 0 2 0
+2 55 0 0 3 1
+3 56 0 0 4 2
+4 57 0 0 5 3
+5 58 0 0 0 4
+End_of_Relation
+Relation Intonation ; "(" ")" ; 
+6 54 1 0 0 0
+1 22 0 6 2 0
+7 55 2 0 0 0
+2 14 0 7 3 1
+8 56 3 0 0 0
+3 16 0 8 4 2
+9 57 4 0 0 0
+4 18 0 9 5 3
+10 58 5 0 0 0
+5 21 0 10 0 4
+End_of_Relation
+Relation Target ; "(" ")" ; 
+19 76 1 0 20 0
+20 77 0 0 0 19
+1 27 0 19 2 0
+21 75 2 0 0 0
+2 29 0 21 3 1
+22 74 3 0 0 0
+3 30 0 22 4 2
+23 73 4 0 0 0
+4 32 0 23 5 3
+24 72 5 0 0 0
+5 33 0 24 6 4
+25 71 6 0 0 0
+6 36 0 25 7 5
+26 70 7 0 0 0
+7 37 0 26 8 6
+27 69 8 0 0 0
+8 38 0 27 9 7
+28 68 9 0 0 0
+9 39 0 28 10 8
+29 67 10 0 0 0
+10 40 0 29 11 9
+30 66 11 0 0 0
+11 41 0 30 12 10
+31 65 12 0 0 0
+12 43 0 31 13 11
+32 64 13 0 0 0
+13 45 0 32 14 12
+33 63 14 0 0 0
+14 46 0 33 15 13
+34 62 15 0 0 0
+15 49 0 34 16 14
+35 61 16 0 0 0
+16 50 0 35 17 15
+36 60 17 0 0 0
+17 51 0 36 18 16
+37 59 18 0 0 0
+18 52 0 37 0 17
+End_of_Relation
+Relation Phrase ; "(" ")" ; 
+2 13 1 0 3 0
+3 12 0 0 4 2
+4 11 0 0 5 3
+5 10 0 0 6 4
+6 9 0 0 7 5
+7 7 0 0 0 6
+1 78 0 2 0 0
+End_of_Relation
+Relation HMMstate ; filename lab/arctic_a0278.sl ; 
+1 79 0 0 2 0
+2 80 0 0 3 1
+3 81 0 0 4 2
+4 82 0 0 5 3
+5 83 0 0 6 4
+6 84 0 0 7 5
+7 85 0 0 8 6
+8 86 0 0 9 7
+9 87 0 0 10 8
+10 88 0 0 11 9
+11 89 0 0 12 10
+12 90 0 0 13 11
+13 91 0 0 14 12
+14 92 0 0 15 13
+15 93 0 0 16 14
+16 94 0 0 17 15
+17 95 0 0 18 16
+18 96 0 0 19 17
+19 97 0 0 20 18
+20 98 0 0 21 19
+21 99 0 0 22 20
+22 100 0 0 23 21
+23 101 0 0 24 22
+24 102 0 0 25 23
+25 103 0 0 26 24
+26 104 0 0 27 25
+27 105 0 0 28 26
+28 106 0 0 29 27
+29 107 0 0 30 28
+30 108 0 0 31 29
+31 109 0 0 32 30
+32 110 0 0 33 31
+33 111 0 0 34 32
+34 112 0 0 35 33
+35 113 0 0 36 34
+36 114 0 0 37 35
+37 115 0 0 38 36
+38 116 0 0 39 37
+39 117 0 0 40 38
+40 118 0 0 41 39
+41 119 0 0 42 40
+42 120 0 0 43 41
+43 121 0 0 44 42
+44 122 0 0 45 43
+45 123 0 0 46 44
+46 124 0 0 47 45
+47 125 0 0 48 46
+48 126 0 0 49 47
+49 127 0 0 50 48
+50 128 0 0 51 49
+51 129 0 0 52 50
+52 130 0 0 53 51
+53 131 0 0 54 52
+54 132 0 0 55 53
+55 133 0 0 56 54
+56 134 0 0 57 55
+57 135 0 0 58 56
+58 136 0 0 59 57
+59 137 0 0 60 58
+60 138 0 0 61 59
+61 139 0 0 62 60
+62 140 0 0 63 61
+63 141 0 0 64 62
+64 142 0 0 65 63
+65 143 0 0 66 64
+66 144 0 0 67 65
+67 145 0 0 68 66
+68 146 0 0 69 67
+69 147 0 0 70 68
+70 148 0 0 71 69
+71 149 0 0 72 70
+72 150 0 0 73 71
+73 151 0 0 74 72
+74 152 0 0 75 73
+75 153 0 0 76 74
+76 154 0 0 77 75
+77 155 0 0 78 76
+78 156 0 0 79 77
+79 157 0 0 80 78
+80 158 0 0 81 79
+81 159 0 0 82 80
+82 160 0 0 83 81
+83 161 0 0 84 82
+84 162 0 0 85 83
+85 163 0 0 86 84
+86 164 0 0 0 85
+End_of_Relation
+Relation segstate ; ()
+32 79 1 0 33 0
+33 80 0 0 0 32
+1 23 0 32 2 0
+34 81 2 0 35 0
+35 82 0 0 0 34
+2 24 0 34 3 1
+36 83 3 0 37 0
+37 84 0 0 0 36
+3 25 0 36 4 2
+38 85 4 0 39 0
+39 86 0 0 0 38
+4 26 0 38 5 3
+40 87 5 0 41 0
+41 88 0 0 42 40
+42 89 0 0 0 41
+5 27 0 40 6 4
+43 90 6 0 44 0
+44 91 0 0 45 43
+45 92 0 0 0 44
+6 28 0 43 7 5
+46 93 7 0 47 0
+47 94 0 0 48 46
+48 95 0 0 0 47
+7 29 0 46 8 6
+49 96 8 0 50 0
+50 97 0 0 51 49
+51 98 0 0 0 50
+8 30 0 49 9 7
+52 99 9 0 53 0
+53 100 0 0 54 52
+54 101 0 0 0 53
+9 31 0 52 10 8
+55 102 10 0 56 0
+56 103 0 0 57 55
+57 104 0 0 0 56
+10 32 0 55 11 9
+58 105 11 0 59 0
+59 106 0 0 60 58
+60 107 0 0 0 59
+11 33 0 58 12 10
+61 108 12 0 62 0
+62 109 0 0 63 61
+63 110 0 0 0 62
+12 34 0 61 13 11
+64 111 13 0 0 0
+13 35 0 64 14 12
+65 112 14 0 66 0
+66 113 0 0 67 65
+67 114 0 0 0 66
+14 36 0 65 15 13
+68 115 15 0 69 0
+69 116 0 0 70 68
+70 117 0 0 0 69
+15 37 0 68 16 14
+71 118 16 0 72 0
+72 119 0 0 73 71
+73 120 0 0 0 72
+16 38 0 71 17 15
+74 121 17 0 75 0
+75 122 0 0 76 74
+76 123 0 0 0 75
+17 39 0 74 18 16
+77 124 18 0 78 0
+78 125 0 0 79 77
+79 126 0 0 0 78
+18 40 0 77 19 17
+80 127 19 0 81 0
+81 128 0 0 82 80
+82 129 0 0 0 81
+19 41 0 80 20 18
+83 130 20 0 84 0
+84 131 0 0 85 83
+85 132 0 0 0 84
+20 42 0 83 21 19
+86 133 21 0 87 0
+87 134 0 0 88 86
+88 135 0 0 0 87
+21 43 0 86 22 20
+89 136 22 0 90 0
+90 137 0 0 91 89
+91 138 0 0 0 90
+22 44 0 89 23 21
+92 139 23 0 93 0
+93 140 0 0 94 92
+94 141 0 0 0 93
+23 45 0 92 24 22
+95 142 24 0 96 0
+96 143 0 0 97 95
+97 144 0 0 0 96
+24 46 0 95 25 23
+98 145 25 0 99 0
+99 146 0 0 100 98
+100 147 0 0 0 99
+25 47 0 98 26 24
+101 148 26 0 102 0
+102 149 0 0 103 101
+103 150 0 0 0 102
+26 48 0 101 27 25
+104 151 27 0 105 0
+105 152 0 0 106 104
+106 153 0 0 0 105
+27 49 0 104 28 26
+107 154 28 0 108 0
+108 155 0 0 109 107
+109 156 0 0 0 108
+28 50 0 107 29 27
+110 157 29 0 111 0
+111 158 0 0 112 110
+112 159 0 0 0 111
+29 51 0 110 30 28
+113 160 30 0 114 0
+114 161 0 0 115 113
+115 162 0 0 0 114
+30 52 0 113 31 29
+116 163 31 0 117 0
+117 164 0 0 0 116
+31 53 0 116 0 30
+End_of_Relation
+Relation mcep ; ()
+1 165 0 0 2 0
+2 166 0 0 3 1
+3 167 0 0 4 2
+4 168 0 0 5 3
+5 169 0 0 6 4
+6 170 0 0 7 5
+7 171 0 0 8 6
+8 172 0 0 9 7
+9 173 0 0 10 8
+10 174 0 0 11 9
+11 175 0 0 12 10
+12 176 0 0 13 11
+13 177 0 0 14 12
+14 178 0 0 15 13
+15 179 0 0 16 14
+16 180 0 0 17 15
+17 181 0 0 18 16
+18 182 0 0 19 17
+19 183 0 0 20 18
+20 184 0 0 21 19
+21 185 0 0 22 20
+22 186 0 0 23 21
+23 187 0 0 24 22
+24 188 0 0 25 23
+25 189 0 0 26 24
+26 190 0 0 27 25
+27 191 0 0 28 26
+28 192 0 0 29 27
+29 193 0 0 30 28
+30 194 0 0 31 29
+31 195 0 0 32 30
+32 196 0 0 33 31
+33 197 0 0 34 32
+34 198 0 0 35 33
+35 199 0 0 36 34
+36 200 0 0 37 35
+37 201 0 0 38 36
+38 202 0 0 39 37
+39 203 0 0 40 38
+40 204 0 0 41 39
+41 205 0 0 42 40
+42 206 0 0 43 41
+43 207 0 0 44 42
+44 208 0 0 45 43
+45 209 0 0 46 44
+46 210 0 0 47 45
+47 211 0 0 48 46
+48 212 0 0 49 47
+49 213 0 0 50 48
+50 214 0 0 51 49
+51 215 0 0 52 50
+52 216 0 0 53 51
+53 217 0 0 54 52
+54 218 0 0 55 53
+55 219 0 0 56 54
+56 220 0 0 57 55
+57 221 0 0 58 56
+58 222 0 0 59 57
+59 223 0 0 60 58
+60 224 0 0 61 59
+61 225 0 0 62 60
+62 226 0 0 63 61
+63 227 0 0 64 62
+64 228 0 0 65 63
+65 229 0 0 66 64
+66 230 0 0 67 65
+67 231 0 0 68 66
+68 232 0 0 69 67
+69 233 0 0 70 68
+70 234 0 0 71 69
+71 235 0 0 72 70
+72 236 0 0 73 71
+73 237 0 0 74 72
+74 238 0 0 75 73
+75 239 0 0 76 74
+76 240 0 0 77 75
+77 241 0 0 78 76
+78 242 0 0 79 77
+79 243 0 0 80 78
+80 244 0 0 81 79
+81 245 0 0 82 80
+82 246 0 0 83 81
+83 247 0 0 84 82
+84 248 0 0 85 83
+85 249 0 0 86 84
+86 250 0 0 87 85
+87 251 0 0 88 86
+88 252 0 0 89 87
+89 253 0 0 90 88
+90 254 0 0 91 89
+91 255 0 0 92 90
+92 256 0 0 93 91
+93 257 0 0 94 92
+94 258 0 0 95 93
+95 259 0 0 96 94
+96 260 0 0 97 95
+97 261 0 0 98 96
+98 262 0 0 99 97
+99 263 0 0 100 98
+100 264 0 0 101 99
+101 265 0 0 102 100
+102 266 0 0 103 101
+103 267 0 0 104 102
+104 268 0 0 105 103
+105 269 0 0 106 104
+106 270 0 0 107 105
+107 271 0 0 108 106
+108 272 0 0 109 107
+109 273 0 0 110 108
+110 274 0 0 111 109
+111 275 0 0 112 110
+112 276 0 0 113 111
+113 277 0 0 114 112
+114 278 0 0 115 113
+115 279 0 0 116 114
+116 280 0 0 117 115
+117 281 0 0 118 116
+118 282 0 0 119 117
+119 283 0 0 120 118
+120 284 0 0 121 119
+121 285 0 0 122 120
+122 286 0 0 123 121
+123 287 0 0 124 122
+124 288 0 0 125 123
+125 289 0 0 126 124
+126 290 0 0 127 125
+127 291 0 0 128 126
+128 292 0 0 129 127
+129 293 0 0 130 128
+130 294 0 0 131 129
+131 295 0 0 132 130
+132 296 0 0 133 131
+133 297 0 0 134 132
+134 298 0 0 135 133
+135 299 0 0 136 134
+136 300 0 0 137 135
+137 301 0 0 138 136
+138 302 0 0 139 137
+139 303 0 0 140 138
+140 304 0 0 141 139
+141 305 0 0 142 140
+142 306 0 0 143 141
+143 307 0 0 144 142
+144 308 0 0 145 143
+145 309 0 0 146 144
+146 310 0 0 147 145
+147 311 0 0 148 146
+148 312 0 0 149 147
+149 313 0 0 150 148
+150 314 0 0 151 149
+151 315 0 0 152 150
+152 316 0 0 153 151
+153 317 0 0 154 152
+154 318 0 0 155 153
+155 319 0 0 156 154
+156 320 0 0 157 155
+157 321 0 0 158 156
+158 322 0 0 159 157
+159 323 0 0 160 158
+160 324 0 0 161 159
+161 325 0 0 162 160
+162 326 0 0 163 161
+163 327 0 0 164 162
+164 328 0 0 165 163
+165 329 0 0 166 164
+166 330 0 0 167 165
+167 331 0 0 168 166
+168 332 0 0 169 167
+169 333 0 0 170 168
+170 334 0 0 171 169
+171 335 0 0 172 170
+172 336 0 0 173 171
+173 337 0 0 174 172
+174 338 0 0 175 173
+175 339 0 0 176 174
+176 340 0 0 177 175
+177 341 0 0 178 176
+178 342 0 0 179 177
+179 343 0 0 180 178
+180 344 0 0 181 179
+181 345 0 0 182 180
+182 346 0 0 183 181
+183 347 0 0 184 182
+184 348 0 0 185 183
+185 349 0 0 186 184
+186 350 0 0 187 185
+187 351 0 0 188 186
+188 352 0 0 189 187
+189 353 0 0 190 188
+190 354 0 0 191 189
+191 355 0 0 192 190
+192 356 0 0 193 191
+193 357 0 0 194 192
+194 358 0 0 195 193
+195 359 0 0 196 194
+196 360 0 0 197 195
+197 361 0 0 198 196
+198 362 0 0 199 197
+199 363 0 0 200 198
+200 364 0 0 201 199
+201 365 0 0 202 200
+202 366 0 0 203 201
+203 367 0 0 204 202
+204 368 0 0 205 203
+205 369 0 0 206 204
+206 370 0 0 207 205
+207 371 0 0 208 206
+208 372 0 0 209 207
+209 373 0 0 210 208
+210 374 0 0 211 209
+211 375 0 0 212 210
+212 376 0 0 213 211
+213 377 0 0 214 212
+214 378 0 0 215 213
+215 379 0 0 216 214
+216 380 0 0 217 215
+217 381 0 0 218 216
+218 382 0 0 219 217
+219 383 0 0 220 218
+220 384 0 0 221 219
+221 385 0 0 222 220
+222 386 0 0 223 221
+223 387 0 0 224 222
+224 388 0 0 225 223
+225 389 0 0 226 224
+226 390 0 0 227 225
+227 391 0 0 228 226
+228 392 0 0 229 227
+229 393 0 0 230 228
+230 394 0 0 231 229
+231 395 0 0 232 230
+232 396 0 0 233 231
+233 397 0 0 234 232
+234 398 0 0 235 233
+235 399 0 0 236 234
+236 400 0 0 237 235
+237 401 0 0 238 236
+238 402 0 0 239 237
+239 403 0 0 240 238
+240 404 0 0 241 239
+241 405 0 0 242 240
+242 406 0 0 243 241
+243 407 0 0 244 242
+244 408 0 0 245 243
+245 409 0 0 246 244
+246 410 0 0 247 245
+247 411 0 0 248 246
+248 412 0 0 249 247
+249 413 0 0 250 248
+250 414 0 0 251 249
+251 415 0 0 252 250
+252 416 0 0 253 251
+253 417 0 0 254 252
+254 418 0 0 255 253
+255 419 0 0 256 254
+256 420 0 0 257 255
+257 421 0 0 258 256
+258 422 0 0 259 257
+259 423 0 0 260 258
+260 424 0 0 261 259
+261 425 0 0 262 260
+262 426 0 0 263 261
+263 427 0 0 264 262
+264 428 0 0 265 263
+265 429 0 0 266 264
+266 430 0 0 267 265
+267 431 0 0 268 266
+268 432 0 0 269 267
+269 433 0 0 270 268
+270 434 0 0 271 269
+271 435 0 0 272 270
+272 436 0 0 273 271
+273 437 0 0 274 272
+274 438 0 0 275 273
+275 439 0 0 276 274
+276 440 0 0 277 275
+277 441 0 0 278 276
+278 442 0 0 279 277
+279 443 0 0 280 278
+280 444 0 0 281 279
+281 445 0 0 282 280
+282 446 0 0 283 281
+283 447 0 0 284 282
+284 448 0 0 285 283
+285 449 0 0 286 284
+286 450 0 0 287 285
+287 451 0 0 288 286
+288 452 0 0 289 287
+289 453 0 0 290 288
+290 454 0 0 291 289
+291 455 0 0 292 290
+292 456 0 0 293 291
+293 457 0 0 294 292
+294 458 0 0 295 293
+295 459 0 0 296 294
+296 460 0 0 297 295
+297 461 0 0 298 296
+298 462 0 0 299 297
+299 463 0 0 300 298
+300 464 0 0 301 299
+301 465 0 0 302 300
+302 466 0 0 303 301
+303 467 0 0 304 302
+304 468 0 0 305 303
+305 469 0 0 306 304
+306 470 0 0 307 305
+307 471 0 0 308 306
+308 472 0 0 309 307
+309 473 0 0 310 308
+310 474 0 0 311 309
+311 475 0 0 312 310
+312 476 0 0 313 311
+313 477 0 0 314 312
+314 478 0 0 315 313
+315 479 0 0 316 314
+316 480 0 0 317 315
+317 481 0 0 318 316
+318 482 0 0 319 317
+319 483 0 0 320 318
+320 484 0 0 321 319
+321 485 0 0 322 320
+322 486 0 0 323 321
+323 487 0 0 324 322
+324 488 0 0 325 323
+325 489 0 0 326 324
+326 490 0 0 327 325
+327 491 0 0 328 326
+328 492 0 0 329 327
+329 493 0 0 330 328
+330 494 0 0 331 329
+331 495 0 0 332 330
+332 496 0 0 333 331
+333 497 0 0 334 332
+334 498 0 0 335 333
+335 499 0 0 336 334
+336 500 0 0 337 335
+337 501 0 0 338 336
+338 502 0 0 339 337
+339 503 0 0 340 338
+340 504 0 0 341 339
+341 505 0 0 342 340
+342 506 0 0 343 341
+343 507 0 0 344 342
+344 508 0 0 345 343
+345 509 0 0 346 344
+346 510 0 0 347 345
+347 511 0 0 348 346
+348 512 0 0 349 347
+349 513 0 0 350 348
+350 514 0 0 351 349
+351 515 0 0 352 350
+352 516 0 0 353 351
+353 517 0 0 354 352
+354 518 0 0 355 353
+355 519 0 0 356 354
+356 520 0 0 357 355
+357 521 0 0 358 356
+358 522 0 0 359 357
+359 523 0 0 360 358
+360 524 0 0 361 359
+361 525 0 0 362 360
+362 526 0 0 363 361
+363 527 0 0 364 362
+364 528 0 0 365 363
+365 529 0 0 366 364
+366 530 0 0 367 365
+367 531 0 0 368 366
+368 532 0 0 369 367
+369 533 0 0 370 368
+370 534 0 0 371 369
+371 535 0 0 372 370
+372 536 0 0 373 371
+373 537 0 0 374 372
+374 538 0 0 375 373
+375 539 0 0 376 374
+376 540 0 0 377 375
+377 541 0 0 378 376
+378 542 0 0 379 377
+379 543 0 0 380 378
+380 544 0 0 381 379
+381 545 0 0 382 380
+382 546 0 0 383 381
+383 547 0 0 384 382
+384 548 0 0 385 383
+385 549 0 0 386 384
+386 550 0 0 387 385
+387 551 0 0 388 386
+388 552 0 0 389 387
+389 553 0 0 390 388
+390 554 0 0 391 389
+391 555 0 0 392 390
+392 556 0 0 393 391
+393 557 0 0 394 392
+394 558 0 0 395 393
+395 559 0 0 396 394
+396 560 0 0 397 395
+397 561 0 0 398 396
+398 562 0 0 399 397
+399 563 0 0 400 398
+400 564 0 0 401 399
+401 565 0 0 402 400
+402 566 0 0 403 401
+403 567 0 0 404 402
+404 568 0 0 405 403
+405 569 0 0 406 404
+406 570 0 0 407 405
+407 571 0 0 408 406
+408 572 0 0 409 407
+409 573 0 0 410 408
+410 574 0 0 411 409
+411 575 0 0 412 410
+412 576 0 0 413 411
+413 577 0 0 414 412
+414 578 0 0 415 413
+415 579 0 0 416 414
+416 580 0 0 417 415
+417 581 0 0 418 416
+418 582 0 0 419 417
+419 583 0 0 420 418
+420 584 0 0 421 419
+421 585 0 0 422 420
+422 586 0 0 423 421
+423 587 0 0 424 422
+424 588 0 0 425 423
+425 589 0 0 426 424
+426 590 0 0 427 425
+427 591 0 0 428 426
+428 592 0 0 429 427
+429 593 0 0 430 428
+430 594 0 0 431 429
+431 595 0 0 432 430
+432 596 0 0 433 431
+433 597 0 0 434 432
+434 598 0 0 435 433
+435 599 0 0 436 434
+436 600 0 0 437 435
+437 601 0 0 438 436
+438 602 0 0 439 437
+439 603 0 0 440 438
+440 604 0 0 441 439
+441 605 0 0 442 440
+442 606 0 0 443 441
+443 607 0 0 444 442
+444 608 0 0 445 443
+445 609 0 0 446 444
+446 610 0 0 447 445
+447 611 0 0 448 446
+448 612 0 0 449 447
+449 613 0 0 450 448
+450 614 0 0 451 449
+451 615 0 0 452 450
+452 616 0 0 453 451
+453 617 0 0 454 452
+454 618 0 0 455 453
+455 619 0 0 456 454
+456 620 0 0 457 455
+457 621 0 0 458 456
+458 622 0 0 459 457
+459 623 0 0 460 458
+460 624 0 0 461 459
+461 625 0 0 462 460
+462 626 0 0 463 461
+463 627 0 0 464 462
+464 628 0 0 465 463
+465 629 0 0 466 464
+466 630 0 0 467 465
+467 631 0 0 468 466
+468 632 0 0 469 467
+469 633 0 0 470 468
+470 634 0 0 471 469
+471 635 0 0 472 470
+472 636 0 0 473 471
+473 637 0 0 474 472
+474 638 0 0 475 473
+475 639 0 0 476 474
+476 640 0 0 477 475
+477 641 0 0 478 476
+478 642 0 0 479 477
+479 643 0 0 480 478
+480 644 0 0 481 479
+481 645 0 0 482 480
+482 646 0 0 483 481
+483 647 0 0 484 482
+484 648 0 0 485 483
+485 649 0 0 486 484
+486 650 0 0 487 485
+487 651 0 0 488 486
+488 652 0 0 489 487
+489 653 0 0 490 488
+490 654 0 0 491 489
+491 655 0 0 492 490
+492 656 0 0 493 491
+493 657 0 0 494 492
+494 658 0 0 495 493
+495 659 0 0 496 494
+496 660 0 0 497 495
+497 661 0 0 498 496
+498 662 0 0 499 497
+499 663 0 0 500 498
+500 664 0 0 501 499
+501 665 0 0 502 500
+502 666 0 0 503 501
+503 667 0 0 504 502
+504 668 0 0 505 503
+505 669 0 0 506 504
+506 670 0 0 507 505
+507 671 0 0 508 506
+508 672 0 0 509 507
+509 673 0 0 510 508
+510 674 0 0 511 509
+511 675 0 0 512 510
+512 676 0 0 513 511
+513 677 0 0 514 512
+514 678 0 0 515 513
+515 679 0 0 516 514
+516 680 0 0 517 515
+517 681 0 0 518 516
+518 682 0 0 519 517
+519 683 0 0 520 518
+520 684 0 0 521 519
+521 685 0 0 522 520
+522 686 0 0 523 521
+523 687 0 0 524 522
+524 688 0 0 525 523
+525 689 0 0 526 524
+526 690 0 0 527 525
+527 691 0 0 528 526
+528 692 0 0 529 527
+529 693 0 0 530 528
+530 694 0 0 531 529
+531 695 0 0 532 530
+532 696 0 0 533 531
+533 697 0 0 534 532
+534 698 0 0 535 533
+535 699 0 0 536 534
+536 700 0 0 537 535
+537 701 0 0 538 536
+538 702 0 0 539 537
+539 703 0 0 540 538
+540 704 0 0 541 539
+541 705 0 0 542 540
+542 706 0 0 543 541
+543 707 0 0 544 542
+544 708 0 0 545 543
+545 709 0 0 546 544
+546 710 0 0 0 545
+End_of_Relation
+Relation mcep_link ; ()
+87 165 1 0 88 0
+88 166 0 0 89 87
+89 167 0 0 0 88
+1 79 0 87 2 0
+90 168 2 0 91 0
+91 169 0 0 92 90
+92 170 0 0 93 91
+93 171 0 0 94 92
+94 172 0 0 95 93
+95 173 0 0 96 94
+96 174 0 0 97 95
+97 175 0 0 98 96
+98 176 0 0 99 97
+99 177 0 0 100 98
+100 178 0 0 101 99
+101 179 0 0 102 100
+102 180 0 0 103 101
+103 181 0 0 104 102
+104 182 0 0 105 103
+105 183 0 0 106 104
+106 184 0 0 0 105
+2 80 0 90 3 1
+107 185 3 0 108 0
+108 186 0 0 0 107
+3 81 0 107 4 2
+109 187 4 0 110 0
+110 188 0 0 111 109
+111 189 0 0 112 110
+112 190 0 0 113 111
+113 191 0 0 114 112
+114 192 0 0 115 113
+115 193 0 0 116 114
+116 194 0 0 117 115
+117 195 0 0 118 116
+118 196 0 0 119 117
+119 197 0 0 0 118
+4 82 0 109 5 3
+120 198 5 0 121 0
+121 199 0 0 122 120
+122 200 0 0 123 121
+123 201 0 0 0 122
+5 83 0 120 6 4
+124 202 6 0 125 0
+125 203 0 0 126 124
+126 204 0 0 127 125
+127 205 0 0 128 126
+128 206 0 0 129 127
+129 207 0 0 130 128
+130 208 0 0 131 129
+131 209 0 0 132 130
+132 210 0 0 133 131
+133 211 0 0 134 132
+134 212 0 0 135 133
+135 213 0 0 136 134
+136 214 0 0 137 135
+137 215 0 0 138 136
+138 216 0 0 0 137
+6 84 0 124 7 5
+139 217 7 0 140 0
+140 218 0 0 141 139
+141 219 0 0 142 140
+142 220 0 0 143 141
+143 221 0 0 144 142
+144 222 0 0 145 143
+145 223 0 0 146 144
+146 224 0 0 147 145
+147 225 0 0 148 146
+148 226 0 0 149 147
+149 227 0 0 150 148
+150 228 0 0 151 149
+151 229 0 0 152 150
+152 230 0 0 153 151
+153 231 0 0 154 152
+154 232 0 0 155 153
+155 233 0 0 156 154
+156 234 0 0 157 155
+157 235 0 0 158 156
+158 236 0 0 159 157
+159 237 0 0 160 158
+160 238 0 0 161 159
+161 239 0 0 162 160
+162 240 0 0 163 161
+163 241 0 0 164 162
+164 242 0 0 165 163
+165 243 0 0 166 164
+166 244 0 0 167 165
+167 245 0 0 168 166
+168 246 0 0 169 167
+169 247 0 0 0 168
+7 85 0 139 8 6
+170 248 8 0 171 0
+171 249 0 0 172 170
+172 250 0 0 0 171
+8 86 0 170 9 7
+173 251 9 0 174 0
+174 252 0 0 0 173
+9 87 0 173 10 8
+175 253 10 0 176 0
+176 254 0 0 177 175
+177 255 0 0 178 176
+178 256 0 0 179 177
+179 257 0 0 180 178
+180 258 0 0 181 179
+181 259 0 0 182 180
+182 260 0 0 183 181
+183 261 0 0 184 182
+184 262 0 0 185 183
+185 263 0 0 186 184
+186 264 0 0 187 185
+187 265 0 0 188 186
+188 266 0 0 189 187
+189 267 0 0 190 188
+190 268 0 0 191 189
+191 269 0 0 192 190
+192 270 0 0 193 191
+193 271 0 0 194 192
+194 272 0 0 0 193
+10 88 0 175 11 9
+195 273 11 0 0 0
+11 89 0 195 12 10
+196 274 12 0 197 0
+197 275 0 0 198 196
+198 276 0 0 199 197
+199 277 0 0 0 198
+12 90 0 196 13 11
+200 278 13 0 0 0
+13 91 0 200 14 12
+201 279 14 0 202 0
+202 280 0 0 203 201
+203 281 0 0 0 202
+14 92 0 201 15 13
+204 282 15 0 205 0
+205 283 0 0 206 204
+206 284 0 0 207 205
+207 285 0 0 208 206
+208 286 0 0 209 207
+209 287 0 0 0 208
+15 93 0 204 16 14
+210 288 16 0 211 0
+211 289 0 0 212 210
+212 290 0 0 213 211
+213 291 0 0 214 212
+214 292 0 0 215 213
+215 293 0 0 216 214
+216 294 0 0 0 215
+16 94 0 210 17 15
+217 295 17 0 218 0
+218 296 0 0 219 217
+219 297 0 0 220 218
+220 298 0 0 221 219
+221 299 0 0 222 220
+222 300 0 0 0 221
+17 95 0 217 18 16
+223 301 18 0 224 0
+224 302 0 0 225 223
+225 303 0 0 0 224
+18 96 0 223 19 17
+226 304 19 0 0 0
+19 97 0 226 20 18
+227 305 20 0 228 0
+228 306 0 0 0 227
+20 98 0 227 21 19
+229 307 21 0 230 0
+230 308 0 0 231 229
+231 309 0 0 232 230
+232 310 0 0 233 231
+233 311 0 0 0 232
+21 99 0 229 22 20
+234 312 22 0 0 0
+22 100 0 234 23 21
+235 313 23 0 236 0
+236 314 0 0 237 235
+237 315 0 0 238 236
+238 316 0 0 0 237
+23 101 0 235 24 22
+239 317 24 0 0 0
+24 102 0 239 25 23
+240 318 25 0 241 0
+241 319 0 0 242 240
+242 320 0 0 0 241
+25 103 0 240 26 24
+243 321 26 0 244 0
+244 322 0 0 245 243
+245 323 0 0 246 244
+246 324 0 0 247 245
+247 325 0 0 248 246
+248 326 0 0 249 247
+249 327 0 0 250 248
+250 328 0 0 251 249
+251 329 0 0 252 250
+252 330 0 0 253 251
+253 331 0 0 254 252
+254 332 0 0 0 253
+26 104 0 243 27 25
+255 333 27 0 256 0
+256 334 0 0 0 255
+27 105 0 255 28 26
+257 335 28 0 258 0
+258 336 0 0 259 257
+259 337 0 0 260 258
+260 338 0 0 261 259
+261 339 0 0 262 260
+262 340 0 0 263 261
+263 341 0 0 264 262
+264 342 0 0 265 263
+265 343 0 0 266 264
+266 344 0 0 267 265
+267 345 0 0 268 266
+268 346 0 0 269 267
+269 347 0 0 270 268
+270 348 0 0 0 269
+28 106 0 257 29 27
+271 349 29 0 272 0
+272 350 0 0 0 271
+29 107 0 271 30 28
+273 351 30 0 0 0
+30 108 0 273 31 29
+274 352 31 0 275 0
+275 353 0 0 276 274
+276 354 0 0 277 275
+277 355 0 0 0 276
+31 109 0 274 32 30
+278 356 32 0 279 0
+279 357 0 0 280 278
+280 358 0 0 281 279
+281 359 0 0 282 280
+282 360 0 0 283 281
+283 361 0 0 284 282
+284 362 0 0 285 283
+285 363 0 0 286 284
+286 364 0 0 0 285
+32 110 0 278 33 31
+287 365 33 0 288 0
+288 366 0 0 289 287
+289 367 0 0 0 288
+33 111 0 287 34 32
+290 368 34 0 291 0
+291 369 0 0 292 290
+292 370 0 0 0 291
+34 112 0 290 35 33
+293 371 35 0 0 0
+35 113 0 293 36 34
+294 372 36 0 0 0
+36 114 0 294 37 35
+295 373 37 0 296 0
+296 374 0 0 297 295
+297 375 0 0 298 296
+298 376 0 0 0 297
+37 115 0 295 38 36
+299 377 38 0 300 0
+300 378 0 0 301 299
+301 379 0 0 302 300
+302 380 0 0 303 301
+303 381 0 0 304 302
+304 382 0 0 305 303
+305 383 0 0 306 304
+306 384 0 0 307 305
+307 385 0 0 308 306
+308 386 0 0 309 307
+309 387 0 0 310 308
+310 388 0 0 311 309
+311 389 0 0 0 310
+38 116 0 299 39 37
+312 390 39 0 0 0
+39 117 0 312 40 38
+313 391 40 0 0 0
+40 118 0 313 41 39
+314 392 41 0 315 0
+315 393 0 0 316 314
+316 394 0 0 317 315
+317 395 0 0 318 316
+318 396 0 0 319 317
+319 397 0 0 320 318
+320 398 0 0 321 319
+321 399 0 0 322 320
+322 400 0 0 323 321
+323 401 0 0 324 322
+324 402 0 0 325 323
+325 403 0 0 326 324
+326 404 0 0 327 325
+327 405 0 0 328 326
+328 406 0 0 0 327
+41 119 0 314 42 40
+329 407 42 0 0 0
+42 120 0 329 43 41
+330 408 43 0 331 0
+331 409 0 0 332 330
+332 410 0 0 333 331
+333 411 0 0 334 332
+334 412 0 0 335 333
+335 413 0 0 336 334
+336 414 0 0 337 335
+337 415 0 0 338 336
+338 416 0 0 339 337
+339 417 0 0 340 338
+340 418 0 0 341 339
+341 419 0 0 342 340
+342 420 0 0 343 341
+343 421 0 0 344 342
+344 422 0 0 345 343
+345 423 0 0 346 344
+346 424 0 0 347 345
+347 425 0 0 348 346
+348 426 0 0 349 347
+349 427 0 0 350 348
+350 428 0 0 351 349
+351 429 0 0 352 350
+352 430 0 0 353 351
+353 431 0 0 354 352
+354 432 0 0 355 353
+355 433 0 0 356 354
+356 434 0 0 357 355
+357 435 0 0 358 356
+358 436 0 0 359 357
+359 437 0 0 360 358
+360 438 0 0 361 359
+361 439 0 0 362 360
+362 440 0 0 0 361
+43 121 0 330 44 42
+363 441 44 0 0 0
+44 122 0 363 45 43
+364 442 45 0 0 0
+45 123 0 364 46 44
+365 443 46 0 366 0
+366 444 0 0 367 365
+367 445 0 0 368 366
+368 446 0 0 0 367
+46 124 0 365 47 45
+369 447 47 0 370 0
+370 448 0 0 371 369
+371 449 0 0 0 370
+47 125 0 369 48 46
+372 450 48 0 373 0
+373 451 0 0 374 372
+374 452 0 0 375 373
+375 453 0 0 376 374
+376 454 0 0 377 375
+377 455 0 0 378 376
+378 456 0 0 0 377
+48 126 0 372 49 47
+379 457 49 0 0 0
+49 127 0 379 50 48
+380 458 50 0 381 0
+381 459 0 0 382 380
+382 460 0 0 383 381
+383 461 0 0 384 382
+384 462 0 0 385 383
+385 463 0 0 386 384
+386 464 0 0 387 385
+387 465 0 0 388 386
+388 466 0 0 0 387
+50 128 0 380 51 49
+389 467 51 0 0 0
+51 129 0 389 52 50
+390 468 52 0 391 0
+391 469 0 0 392 390
+392 470 0 0 393 391
+393 471 0 0 394 392
+394 472 0 0 0 393
+52 130 0 390 53 51
+395 473 53 0 396 0
+396 474 0 0 397 395
+397 475 0 0 398 396
+398 476 0 0 399 397
+399 477 0 0 400 398
+400 478 0 0 401 399
+401 479 0 0 402 400
+402 480 0 0 0 401
+53 131 0 395 54 52
+403 481 54 0 404 0
+404 482 0 0 405 403
+405 483 0 0 406 404
+406 484 0 0 407 405
+407 485 0 0 408 406
+408 486 0 0 0 407
+54 132 0 403 55 53
+409 487 55 0 0 0
+55 133 0 409 56 54
+410 488 56 0 411 0
+411 489 0 0 412 410
+412 490 0 0 413 411
+413 491 0 0 414 412
+414 492 0 0 415 413
+415 493 0 0 416 414
+416 494 0 0 417 415
+417 495 0 0 418 416
+418 496 0 0 419 417
+419 497 0 0 420 418
+420 498 0 0 421 419
+421 499 0 0 422 420
+422 500 0 0 423 421
+423 501 0 0 424 422
+424 502 0 0 425 423
+425 503 0 0 426 424
+426 504 0 0 427 425
+427 505 0 0 428 426
+428 506 0 0 429 427
+429 507 0 0 430 428
+430 508 0 0 431 429
+431 509 0 0 432 430
+432 510 0 0 433 431
+433 511 0 0 434 432
+434 512 0 0 435 433
+435 513 0 0 0 434
+56 134 0 410 57 55
+436 514 57 0 437 0
+437 515 0 0 438 436
+438 516 0 0 439 437
+439 517 0 0 440 438
+440 518 0 0 441 439
+441 519 0 0 442 440
+442 520 0 0 443 441
+443 521 0 0 444 442
+444 522 0 0 445 443
+445 523 0 0 446 444
+446 524 0 0 447 445
+447 525 0 0 448 446
+448 526 0 0 449 447
+449 527 0 0 450 448
+450 528 0 0 451 449
+451 529 0 0 452 450
+452 530 0 0 453 451
+453 531 0 0 454 452
+454 532 0 0 455 453
+455 533 0 0 0 454
+57 135 0 436 58 56
+456 534 58 0 0 0
+58 136 0 456 59 57
+457 535 59 0 458 0
+458 536 0 0 459 457
+459 537 0 0 460 458
+460 538 0 0 461 459
+461 539 0 0 462 460
+462 540 0 0 463 461
+463 541 0 0 464 462
+464 542 0 0 465 463
+465 543 0 0 466 464
+466 544 0 0 0 465
+59 137 0 457 60 58
+467 545 60 0 0 0
+60 138 0 467 61 59
+468 546 61 0 0 0
+61 139 0 468 62 60
+469 547 62 0 0 0
+62 140 0 469 63 61
+470 548 63 0 471 0
+471 549 0 0 472 470
+472 550 0 0 0 471
+63 141 0 470 64 62
+473 551 64 0 474 0
+474 552 0 0 0 473
+64 142 0 473 65 63
+475 553 65 0 476 0
+476 554 0 0 477 475
+477 555 0 0 478 476
+478 556 0 0 479 477
+479 557 0 0 480 478
+480 558 0 0 481 479
+481 559 0 0 482 480
+482 560 0 0 483 481
+483 561 0 0 484 482
+484 562 0 0 485 483
+485 563 0 0 486 484
+486 564 0 0 487 485
+487 565 0 0 488 486
+488 566 0 0 489 487
+489 567 0 0 490 488
+490 568 0 0 491 489
+491 569 0 0 492 490
+492 570 0 0 493 491
+493 571 0 0 494 492
+494 572 0 0 495 493
+495 573 0 0 496 494
+496 574 0 0 497 495
+497 575 0 0 498 496
+498 576 0 0 499 497
+499 577 0 0 500 498
+500 578 0 0 501 499
+501 579 0 0 502 500
+502 580 0 0 503 501
+503 581 0 0 504 502
+504 582 0 0 505 503
+505 583 0 0 506 504
+506 584 0 0 0 505
+65 143 0 475 66 64
+507 585 66 0 508 0
+508 586 0 0 509 507
+509 587 0 0 510 508
+510 588 0 0 511 509
+511 589 0 0 0 510
+66 144 0 507 67 65
+512 590 67 0 513 0
+513 591 0 0 514 512
+514 592 0 0 515 513
+515 593 0 0 0 514
+67 145 0 512 68 66
+516 594 68 0 0 0
+68 146 0 516 69 67
+517 595 69 0 518 0
+518 596 0 0 519 517
+519 597 0 0 520 518
+520 598 0 0 521 519
+521 599 0 0 522 520
+522 600 0 0 523 521
+523 601 0 0 524 522
+524 602 0 0 525 523
+525 603 0 0 526 524
+526 604 0 0 527 525
+527 605 0 0 528 526
+528 606 0 0 529 527
+529 607 0 0 530 528
+530 608 0 0 531 529
+531 609 0 0 532 530
+532 610 0 0 0 531
+69 147 0 517 70 68
+533 611 70 0 0 0
+70 148 0 533 71 69
+534 612 71 0 535 0
+535 613 0 0 536 534
+536 614 0 0 537 535
+537 615 0 0 0 536
+71 149 0 534 72 70
+538 616 72 0 539 0
+539 617 0 0 540 538
+540 618 0 0 541 539
+541 619 0 0 0 540
+72 150 0 538 73 71
+542 620 73 0 543 0
+543 621 0 0 544 542
+544 622 0 0 545 543
+545 623 0 0 546 544
+546 624 0 0 0 545
+73 151 0 542 74 72
+547 625 74 0 548 0
+548 626 0 0 0 547
+74 152 0 547 75 73
+549 627 75 0 550 0
+550 628 0 0 551 549
+551 629 0 0 552 550
+552 630 0 0 553 551
+553 631 0 0 554 552
+554 632 0 0 555 553
+555 633 0 0 556 554
+556 634 0 0 557 555
+557 635 0 0 558 556
+558 636 0 0 0 557
+75 153 0 549 76 74
+559 637 76 0 560 0
+560 638 0 0 561 559
+561 639 0 0 562 560
+562 640 0 0 563 561
+563 641 0 0 564 562
+564 642 0 0 565 563
+565 643 0 0 566 564
+566 644 0 0 567 565
+567 645 0 0 0 566
+76 154 0 559 77 75
+568 646 77 0 569 0
+569 647 0 0 570 568
+570 648 0 0 571 569
+571 649 0 0 572 570
+572 650 0 0 573 571
+573 651 0 0 574 572
+574 652 0 0 575 573
+575 653 0 0 576 574
+576 654 0 0 577 575
+577 655 0 0 578 576
+578 656 0 0 579 577
+579 657 0 0 580 578
+580 658 0 0 581 579
+581 659 0 0 582 580
+582 660 0 0 583 581
+583 661 0 0 584 582
+584 662 0 0 585 583
+585 663 0 0 586 584
+586 664 0 0 587 585
+587 665 0 0 588 586
+588 666 0 0 589 587
+589 667 0 0 590 588
+590 668 0 0 591 589
+591 669 0 0 0 590
+77 155 0 568 78 76
+592 670 78 0 593 0
+593 671 0 0 594 592
+594 672 0 0 595 593
+595 673 0 0 0 594
+78 156 0 592 79 77
+596 674 79 0 597 0
+597 675 0 0 0 596
+79 157 0 596 80 78
+598 676 80 0 0 0
+80 158 0 598 81 79
+599 677 81 0 600 0
+600 678 0 0 601 599
+601 679 0 0 602 600
+602 680 0 0 0 601
+81 159 0 599 82 80
+603 681 82 0 0 0
+82 160 0 603 83 81
+604 682 83 0 605 0
+605 683 0 0 606 604
+606 684 0 0 607 605
+607 685 0 0 608 606
+608 686 0 0 609 607
+609 687 0 0 610 608
+610 688 0 0 0 609
+83 161 0 604 84 82
+611 689 84 0 612 0
+612 690 0 0 613 611
+613 691 0 0 614 612
+614 692 0 0 615 613
+615 693 0 0 616 614
+616 694 0 0 617 615
+617 695 0 0 618 616
+618 696 0 0 619 617
+619 697 0 0 620 618
+620 698 0 0 621 619
+621 699 0 0 622 620
+622 700 0 0 0 621
+84 162 0 611 85 83
+623 701 85 0 624 0
+624 702 0 0 0 623
+85 163 0 623 86 84
+625 703 86 0 626 0
+626 704 0 0 627 625
+627 705 0 0 628 626
+628 706 0 0 629 627
+629 707 0 0 630 628
+630 708 0 0 631 629
+631 709 0 0 632 630
+632 710 0 0 0 631
+86 164 0 625 0 85
+End_of_Relation
+End_of_Relations
+End_of_Utterance

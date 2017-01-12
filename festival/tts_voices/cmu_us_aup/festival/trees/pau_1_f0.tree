@@ -1,0 +1,13 @@
+
+((R:mcep_link.parent.R:HMMstate.p.name is 0)
+ ((lisp_cg_state_index < 7)
+  ((R:mcep_link.parent.R:segstate.n.lisp_cg_duration < 0.1265)
+   ((lisp_cg_state_index < 1.2)
+    ((lisp_cg_state_pos is b)
+     ((0.119515 -0.0144231))
+     ((0.119515 -0.0144231)))
+    ((0 0)))
+   ((0 0)))
+  ((0 0)))
+ ((0 0)))
+;; RMSE 0.0109 Correlation is 0.1196 Mean (abs) Error 0.0002 (0.0109)

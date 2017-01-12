@@ -1,0 +1,6 @@
+;;; Build the duration model itself
+Dataset of 67048 vectors of 95 parameters from: festival/dur/data/dur.data.train.train
+Dataset of 7449 vectors of 95 parameters from: festival/dur/data/dur.data.train.test
+RMSE 0.9327 Correlation is 0.3932 Mean (abs) Error 0.6180 (0.6987)
+;;; Test the duration model
+;; RMSE 0.9298 Correlation is 0.3928 Mean (abs) Error 0.6128 (0.6994)
